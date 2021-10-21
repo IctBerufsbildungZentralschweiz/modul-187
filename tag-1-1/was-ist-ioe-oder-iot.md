@@ -1,3 +1,7 @@
+---
+description: IoE - Internet of Everything oder IoT - Internet of Things
+---
+
 # Was ist IoE oder IoT
 
 Heute sind fast alle Menschen miteinander vernetzt, mit täglich neuen Möglichkeiten für unser Leben. Das Internet of Things macht das Gleiche jetzt im Grunde mit allen anderen „Dingen“. Und was heisst das jetzt genau? Für eine strikte Definition ist das Feld viel zu weit. Doch es kommt vor allem auf vier Kernkomponenten an, die uns im IoT-Kontext immer begegnen:
