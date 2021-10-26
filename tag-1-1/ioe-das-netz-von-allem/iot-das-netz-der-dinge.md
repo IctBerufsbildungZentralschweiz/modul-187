@@ -1,8 +1,8 @@
 ---
-description: IoE - Internet of Everything oder IoT - Internet of Things
+description: IoT - Internet of Things
 ---
 
-# Was ist IoE oder IoT
+# IoT - Das Netz der Dinge
 
 Heute sind fast alle Menschen miteinander vernetzt, mit täglich neuen Möglichkeiten für unser Leben. Das Internet of Things macht das Gleiche jetzt im Grunde mit allen anderen „Dingen“. Und was heisst das jetzt genau? Für eine strikte Definition ist das Feld viel zu weit. Doch es kommt vor allem auf vier Kernkomponenten an, die uns im IoT-Kontext immer begegnen:
 
@@ -15,7 +15,5 @@ Heute sind fast alle Menschen miteinander vernetzt, mit täglich neuen Möglichk
 **Infrastruktur: **Das IoT funkt nicht zum Selbstzweck. Erst mit einer Daten-Infrastruktur, die die Daten verknüpft und daraus Erkenntnisse zieht, wird der Datenschatz auch gehoben.
 
 Zusammengefasst: **Das IoT besteht aus physischen Objekten, die selbst über das Internet kommunizieren und dort Daten über ihren eigenen Zustand oder Umgebungsparameter austauschen, um Erkenntnisse zu gewinnen und Abläufe zu steuern.** Von der Gebäudeelektronik bis zum Smart Home, vom Waren- bis zum Fitnesstracker oder vom Staubsauger- bis zum Industrieroboter – auf diese vier Komponenten kommt es immer an. Den Möglichkeiten solcher Systeme sind kaum Grenzen gesetzt, ein Patentrezept gibt es nicht. Und so bringt uns das IoT in vielen Bereichen nach vorn: Nutzer erhalten neue Möglichkeiten, mit Technologie zu interagieren. Unternehmen können Produkte verbessern, effizienter produzieren und Abläufe transparenter machen. Und das hilft unserer Gesellschaft, nachhaltiger zu werden.
-
-{% file src="../.gitbook/assets/ioe_heres_to_humanity.mp4" %}
 
 {% embed url="https://youtu.be/yLZbzbO_7yQ" %}
