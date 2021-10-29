@@ -14,4 +14,4 @@ Adafruit IO ist ein Cloud-Anbieter, der sich mehr auf IoT-Bereitstellungen in de
 
 [Adafruit Industries](https://www.adafruit.com) ist ein Open-Source-Hardware-Unternehmen mit Sitz in New York City. Das Unternehmen entwirft, produziert und vertreibt eine Reihe von Elektronikprodukten, Elektronikkomponenten, Werkzeugen und Zubehör. Für alle Makers und Elektronikbasterl seit Jahren ein Begriff.
 
-{% embed url="https://learn.adafruit.com" %}
+{% embed url="https://www.adafruit.com" %}
