@@ -36,6 +36,7 @@
     * [WLAN](tag-2/funktechnologien-und-deren-einsatzgebiet/wlan.md)
     * [UWB (Ultrabreitband-Technologie) / AirTag](tag-2/funktechnologien-und-deren-einsatzgebiet/uwb-ultrabreitband-technologie-airtag.md)
     * [GSM / GPRS / UMTS / LTE / 3G / 4G / 5G](tag-2/funktechnologien-und-deren-einsatzgebiet/gsm-gprs-umts-lte-3g-4g-5g.md)
+    * [Narrowband-IoT](tag-2/funktechnologien-und-deren-einsatzgebiet/narrowband-iot.md)
     * [LoRa - LoRaWAN](tag-2/funktechnologien-und-deren-einsatzgebiet/lora-lorawan/README.md)
       * [LoRaWAN](tag-2/funktechnologien-und-deren-einsatzgebiet/lora-lorawan/lorawan.md)
   * [⚗ Labor Tag2](tag-2/labor-tag2.md)
