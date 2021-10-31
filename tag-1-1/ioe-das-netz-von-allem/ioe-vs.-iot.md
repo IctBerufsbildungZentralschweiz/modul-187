@@ -1,4 +1,6 @@
-# IoE vs IoT
+# IoE vs. IoT
+
+![](../../.gitbook/assets/IoEvsIoT.jpg)
 
 Beim IoT (Internet of Things) werden Gegenstände intelligent gemacht, das heisst durch Logiken und Netzwerkfunktionalität wird es diesen ermöglicht mit anderen Geräten Informationen auszutauschen.
 
