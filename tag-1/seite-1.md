@@ -1,8 +1,6 @@
 # 🗓 Organisatorisches
 
-## Hallo Welt 1
-
-jöjöjöj&#x20;
+Hier seht ihr den Programmablaufes des ÜKs.
 
 | Kursplan      |        Tag 1       |          Tag 2          |        Tag 3       |          Tag 4          |             Tag 5             |
 | ------------- | :----------------: | :---------------------: | :----------------: | :---------------------: | :---------------------------: |
@@ -15,3 +13,7 @@ jöjöjöj&#x20;
 | 15:00 - 16:30 |   Labor :alembic:  |     Labor :alembic:     |  Vorprojekt Labor  |    Projekt KNW :star:   |    Schriftlicher KNW :pray:   |
 
 Labor :alembic: bedeutet wir Experimentieren mit der Hardware und den Sensoren und Aktoren.
+
+Die Bewertung des ÜKs erfolgt über eine Projektarbeit in 2er Gruppen, welche am 4. Tag Mittags startet. Zudem gibt es eine Präsentation und Live-Demo nach dem Mittag des 5. Tages.
+
+Zum Abschluss gibt es nach der Pause am 5. Tag noch einen schrfitlichen Test über die behandelten Themen.
