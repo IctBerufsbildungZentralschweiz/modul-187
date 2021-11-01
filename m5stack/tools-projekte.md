@@ -1,5 +1,7 @@
 # Tools / Projekte
 
+Unter den angegebenen Links findet mal eine Vielzahl an Projekten und zusätzlichen Informationen. Schaut mal rein.
+
 {% embed url="https://m5stack.com/project-hub?category_id=1&page=1" %}
 PROJECT HUB
 {% endembed %}

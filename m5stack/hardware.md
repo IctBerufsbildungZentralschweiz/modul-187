@@ -1,6 +1,6 @@
 # Hardware
 
-Beim m5stack&#x20;
+Beim m5stack handelt es sich um einen kleinen 5x5cm kleinen Microkontroller mit einem ESP32 sowie Touch-Display und diveresen Schnittstellen und integrierten Komponenten.
 
 ![](<../.gitbook/assets/M5Stack Core2 AWS.png>)
 
