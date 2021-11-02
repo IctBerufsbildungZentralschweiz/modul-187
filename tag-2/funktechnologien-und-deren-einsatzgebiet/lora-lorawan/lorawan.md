@@ -1,7 +1,3 @@
----
-description: In der Schweiz bieten die führenden Telekomfirmen auch ein
----
-
 # LoRaWAN
 
 {% embed url="https://www.thethingsnetwork.org" %}
