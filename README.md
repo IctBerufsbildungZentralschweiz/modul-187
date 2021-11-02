@@ -11,3 +11,15 @@ Dieses Script wurde im Rahmen des ÜK-Moduls 216 für die ICT-Berufsbildung Zent
 {% hint style="success" %}
 [Modulidentifikation und HANOKS](https://modulbaukasten.ch/Module/216\_1\_Internet%20of%20Everything-Endger%C3%A4te%20in%20bestehende%20Plattform%20integrieren.pdf)
 {% endhint %}
+
+{% hint style="info" %}
+Lest die HANOKS durch und erfasst eure Erwartungen im anschliessenden Mentimeter.&#x20;
+{% endhint %}
+
+
+
+Euer Instruktor hat auf [https://mentimeter.com](https://mentimeter.com) eine Präsentation mit Word Cloud erstellt.&#x20;
+
+![](.gitbook/assets/Mentimeter\_Erwartungen.png)
+
+Über den Link und Zugangscode könnt ihr an der Umfrage teilnehmen. Der Instruktor wird das Resultat später im Moodle hinterlegen.
