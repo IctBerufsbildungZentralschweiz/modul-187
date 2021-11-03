@@ -13,3 +13,7 @@ Die bekanntesten LPWAN-Funktechnologien sind [LoRaWAN](lora-lorawan/), Sigfox un
 In der angefügten Datei seht ihr eine übersicht&#x20;
 
 {% file src="../../.gitbook/assets/Ultimate Network Comparison - Semtech.pdf" %}
+
+{% hint style="info" %}
+Die Frequenz bezeichnet die Anzahl der Schwingungen je Sekunde, die bei einem Ton oder Signal vorhanden sind. Je schneller die Teilchen schwingen, desto höher wird die Frequenz. Die Einheit ist Hertz (Hz)
+{% endhint %}

@@ -80,4 +80,4 @@ Je höher die Frequenz eines drahtlosen Signals ist, desto kürzer seine Reichwe
 
 &#x20;**GHz- und Netzwerk-Störungen (Network Interference)**
 
-Sie können feststellen, dass Ihr schnurloses Telefon, automatische Garagentoröffner oder andere Haushaltsgeräte meistens auf dem 2,4 GHz Band betrieben werden. Störenden Interferenzen von Geräten sind deshalb in diesem Frequenzbereich häufiger anzutreffen als in einem 5-GHz-Heimnetzwerk. ð Vorteil: 5 GHz
+Sie können feststellen, dass Ihr schnurloses Telefon, automatische Garagentoröffner oder andere Haushaltsgeräte meistens auf dem 2,4 GHz Band betrieben werden. Störenden Interferenzen von Geräten sind deshalb in diesem Frequenzbereich häufiger anzutreffen als in einem 5-GHz-Heimnetzwerk. -> Vorteil: 5 GHz
