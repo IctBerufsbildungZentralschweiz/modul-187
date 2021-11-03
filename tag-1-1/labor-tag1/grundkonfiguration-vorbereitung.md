@@ -12,4 +12,4 @@ Macht euch vertraut mit der Hardware und schaut euch die Einstellungen an. Je be
 
 Zum Verbinden werden wir als WLAN mit der <mark style="background-color:green;">SSID: ICT-BZ</mark> Gast verwenden. Das Kennwort bekommt ihr von eurem Instruktor.
 
-Geschaft wir sind bereit für die nächsten Schritte :athletic\_shoe:
+Geschaft ihr seit bereit für die nächsten Schritte :athletic\_shoe:

@@ -27,7 +27,9 @@ Ok, kopieren kann jeder, lasst uns nun mit einem eigener Aufgabe beginnen.
 * [ ] Erstellt für jeden Sensorwert ein Anzeige, damit ihr die Werte auf dem LCD-Screen sehen könnt.
 * [ ] Fügt eine Funktion ein, damit wenn ein bestimmter Wert über- oder unterschritten wird der Bildschirmhintergrund die Farbe wechselt. Ihr könnt dazu aber auf die RGB-Bar verwenden.
 * [ ] Wie wäre es wenn der Wert über einen "slider" interaktiv verändert werden könnte? Versucht es.
-* [ ] Speichert die Messdaten der auf eine microSD-Karte, welche ihr vom Instruktor erhält.
+*   [ ] Speichert die Messdaten der auf eine microSD-Karte, welche ihr vom Instruktor erhält.
+
+    :exclamation:Diese muss als Dateisystem FAT32 haben.
 * [ ] Versucht die Messdaten mit Excel auszuwerten und erstellt eine Grafik dazu.
 * [ ] Wenn ihr gut in der Zeit seit, könnt ihr noch weitere Funktionen austesten.
 
