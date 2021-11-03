@@ -28,7 +28,6 @@
   * [Protokolle](tag-2/protokolle/README.md)
     * [I²C - Inter-Integrated Circuit](tag-2/protokolle/i-c-inter-integrated-circuit.md)
     * [MQTT](tag-2/protokolle/mqtt.md)
-    * [M2M](tag-2/protokolle/m2m.md)
   * [Funktechnologien und deren Einsatzgebiet](tag-2/funktechnologien-und-deren-einsatzgebiet/README.md)
     * [Bluetooth](tag-2/funktechnologien-und-deren-einsatzgebiet/bluetooth.md)
     * [ZigBee](tag-2/funktechnologien-und-deren-einsatzgebiet/zigbee.md)
