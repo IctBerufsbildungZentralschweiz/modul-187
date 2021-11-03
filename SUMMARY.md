@@ -16,7 +16,7 @@
     * [KI](tag-1-1/ioe-das-netz-von-allem/ki.md)
     * [IoE vs. IoT](tag-1-1/ioe-das-netz-von-allem/ioe-vs.-iot.md)
     * [Industrie 4.0](tag-1-1/ioe-das-netz-von-allem/industrie-4.0.md)
-    * [Cloud- und Edge Computing](tag-1-1/ioe-das-netz-von-allem/cloud-und-edge-computing.md)
+    * [Cloud- und Edge Computing](tag-1-1/ioe-das-netz-von-allem/cloud-und-edge.md)
     * [📝 Aufgabe](tag-1-1/ioe-das-netz-von-allem/aufgabe.md)
   * [⚗ Labor Tag1](tag-1-1/labor-tag1/README.md)
     * [Grundkonfiguration / Vorbereitung](tag-1-1/labor-tag1/grundkonfiguration-vorbereitung.md)
