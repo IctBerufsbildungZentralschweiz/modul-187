@@ -32,3 +32,5 @@ Adafruit IO ist ein Cloud-Anbieter, der sich auf IoT-Bereitstellungen in der Clo
 * [ ] Lasst die Daten auch auf einem Graph mit Zeitachse anzeigen.
 * [ ] Erstellt eine technische Zeichnung, welche den Verbindungsweg und Datenweg aufzeigt.
 * [ ] Alles Fertig? Gibt es weitere Features die genutzt werden könnte? Mach dich schlau.
+
+{% embed url="https://learn.adafruit.com/series/adafruit-io-basics" %}
