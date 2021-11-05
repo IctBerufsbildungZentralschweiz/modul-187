@@ -2,57 +2,42 @@
 
 Drahtgebundene Übertragungen werden in 2 verschiedene Kategorien unterteilt:
 
-&#x20;
-
-**Analoge Signale**
+&#x20;**Analoge Signale**
 
 &#x20;Diese Signale sind fliessend. Die Spannung wird kontinuierlich verändert.
 
 _Beispiele:_
 
-_Audiosignal zu einem Lautsprecher._
-
-_Temperaturfühler_
-
-_Dimmer_
-
-_Herzrythmus an einem EGK_
-
-_Rampe für Rollstuhlfahrer_
+* _Audiosignal zu einem Lautsprecher_
+* _Temperaturfühler_
+* _Dimmer_
+* _Herzrythmus an einem EGK_
+* _Rampe für Rollstuhlfahrer_
 
 &#x20;![](../../.gitbook/assets/image.png)
 
 &#x20;
 
-&#x20;
-
 **Digitale Signale**
-
-&#x20;
 
 Diese Signale sind stufenweise oder Binär. Dies Spannung wird stufenwiese verändert oder als Binär-Signal ein- beziehungsweise ausgeschaltet.
 
 _Beispiele:_
 
-_Ethernet per Kabel_
-
-_Lichtschalter_
-
-_Digitalthermometer_
-
-_Treppe_
+* _Ethernet per Kabel_
+* _Lichtschalter_
+* _Digitalthermometer_
+* _Treppe_
 
 &#x20;    ![](<../../.gitbook/assets/image (2).png>)         ![](<../../.gitbook/assets/image (1).png>)
 
-&#x20;
-
-&#x20;
+&#x20;&#x20;
 
 **Anmerkung zu Digitalen Übertragung**
 
-&#x20;Simplex          Daten werden nur in eine Richtuing übertragen
+**Simplex **         Daten werden nur in eine Richtuing übertragen
 
-Duplex            Daten werden in beide Richtungen übertragen
+**Duplex **           Daten werden in beide Richtungen übertragen
 
 &#x20;                       Half-Duplex               Zeitgleich nur in eine Richtung
 
@@ -60,21 +45,20 @@ Duplex            Daten werden in beide Richtungen übertragen
 
 &#x20;
 
-Asynchron      Die Daten werden nach Belieben übertragen.
+**Asynchron**      Die Daten werden nach Belieben übertragen.
 
-Synchron        Die Daten werden nach einem bestimmten Takt (Uhr) übertragen
-
-&#x20;
-
-Parallel            Daten werden gleichzeitig auf mehreren Drähten übermittelt.
-
-Seriell              Daten werden auf einem Draht hintereinander gesendet
+**Synchron**        Die Daten werden nach einem bestimmten Takt (Uhr) übertragen
 
 &#x20;
 
-Master             Hauptgerät, welches in einem Verbund die Priorität hat oder die Steuerung\
-übernimmt.
+**Parallel **           Daten werden gleichzeitig auf mehreren Drähten übermittelt.
 
-Slave               In der Regel ohne Master nicht nutzbar.
+**Seriell  **            Daten werden auf einem Draht hintereinander gesendet
+
+&#x20;
+
+**Master  **           Hauptgerät, welches in einem Verbund die Priorität hat oder die Steuerung_  _übernimmt.
+
+**Slave   **            In der Regel ohne Master nicht nutzbar.
 
 &#x20;
