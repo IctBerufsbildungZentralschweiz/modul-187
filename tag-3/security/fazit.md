@@ -1,6 +1,6 @@
 # Fazit
 
-Um zu verstehen wo welche Sicherheitsprobleme auftauchen können, hilft ein Modell, welches den Zusammenhang und die Interaktionen zwischen ihnen aufzeigt.
+Um zu verstehen, wo welche Sicherheitsprobleme auftauchen können, hilft ein Modell, welches den Zusammenhang und die Interaktionen zwischen ihnen aufzeigt.
 
 ![IIoT reference model](../../.gitbook/assets/IoT-reference-model.png)
 
