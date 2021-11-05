@@ -8,4 +8,8 @@ Im Kapitel SYS: IT-System wird auf [SYS.4.4 Allgemeins IoT-Gerät](https://www.b
 
 Gibt es in der Schweiz nicht auch eine solche Anlaufstelle? Doch die gibt es, wenn auch nicht so ausgebrägt wie in Deutschland.
 
-Das Nationale Zentrum für Cybersicherheit ([**N**ational **C**yber **S**ecurity **C**entre - NCSC](https://www.ncsc.admin.ch/ncsc/de/home.html)) ist das Kompetenzzentrum des Bundes für Cybersicherheit und damit erste Anlaufstelle für die Wirtschaft, Verwaltung, Bildungseinrichtungen und die Bevölkerung bei Cyberfragen. Es ist verantwortlich für die koordinierte Umsetzung der [Nationalen Strategie zum Schutz der Schweiz vor Cyberrisiken (NCS) 2018-2022](https://www.ncsc.admin.ch/ncsc/de/home/strategie/strategie-ncss-2018-2022.html).&#x20;
+In der Schweiz ist das Nationale Zentrum für Cybersicherheit ([**N**ational **C**yber **S**ecurity **C**entre - NCSC](https://www.ncsc.admin.ch/ncsc/de/home.html)) das Kompetenzzentrum des Bundes für Cybersicherheit und damit erste Anlaufstelle für die Wirtschaft, Verwaltung, Bildungseinrichtungen und die Bevölkerung bei Cyberfragen. Es ist verantwortlich für die koordinierte Umsetzung der [Nationalen Strategie zum Schutz der Schweiz vor Cyberrisiken (NCS) 2018-2022](https://www.ncsc.admin.ch/ncsc/de/home/strategie/strategie-ncss-2018-2022.html).&#x20;
+
+### Aufgabe
+
+Lest die Empfehlung des NCSC zur ["Massnahmen zum Schutz von IoT Geräten"](https://www.ncsc.admin.ch/ncsc/de/home/infos-fuer/infos-it-spezialisten/themen/massnahmen-schutz-iot.html) und diskutiert in der Klasse anschliessend die Empfehlungen. Was würdet ihr empfehlen?&#x20;
