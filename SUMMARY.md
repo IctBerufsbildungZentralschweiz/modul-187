@@ -54,7 +54,7 @@
   * [⚗ Labor Tag3](tag-3/labor-tag3.md)
 * [TAG 4](tag-4/README.md)
   * [🏁 Tagesziele](tag-4/tagesziele.md)
-  * [⭐ Projektstart KNW](tag-4/projektstart-knw.md)
+  * [⭐ Projektstart KNW](tag-4/labor-tag4.md)
 * [TAG 5](tag-5/README.md)
   * [🏁 Tagesziele](tag-5/tagesziele.md)
 * [M5Stack](m5stack/README.md)
