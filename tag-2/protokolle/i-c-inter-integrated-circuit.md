@@ -8,7 +8,7 @@ An einer Kommunikation können auch mehrere Master und bis zu 128 Slaves beteili
 
 
 
-SDA (**S**erial **Da**ta Line: serielle Datenleitung) und SCL (**S**erial **C**lock **L**ine: serielle Taktleitung)
+SDA (**S**erial **D**ata **L**ine: serielle Datenleitung) und SCL (**S**erial **C**lock **L**ine: serielle Taktleitung)
 
 ![](../../.gitbook/assets/grafik.png)
 
