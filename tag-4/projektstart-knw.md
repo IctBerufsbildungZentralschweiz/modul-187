@@ -1,0 +1,31 @@
+# ⭐ Projektstart KNW
+
+Nach dem schriftlichen Kompetenznachweis und beenden des Vorprojektes, starten wir nun mit der Projektarbeit.
+
+Ihr bekommt für diese Aufgabe eine Projektvorlage:
+
+{% file src="../.gitbook/assets/Projektarbeit_M216_Projekt-Vorlage.docx" %}
+Projektvorlage
+{% endfile %}
+
+Bearbeitet dieses und gebt es zusammen mit den weiteren Daten auf der "IoT-Projektdaten" der Kursplattform (Moodle) am Tag 5 ab.
+
+Bildet 2er Teams. Die Aufgaben sind in der Gruppe zu lösen und werden auch in der Gruppe bewertet.
+
+### Ihr habt folgende Projektanforderungen:
+
+* [ ] Wählt 2 Produkte (Sensor oder Aktor) für euer Projekt aus.
+* [ ] Es müssen min. 2 Interaktionen eingebunden werden.
+* [ ] Erstellt eine Kurzbeschreibung über euer Projekt.
+* [ ] Definiert die Zielsetzung, Projektziel.
+* [ ] Erstellt eine Visualisierung des Projektes.
+* [ ] Erstellt ein Planungsfile mit Aufgaben.
+* [ ] Erstellt einen UI (User Interface - Benutzeroberfläche auf dem M5Stack.
+* [ ] Erstellt ein entsprechendes Dashboard auf io.adafruit.com.
+* [ ] Ihr müsst eine technische Dokumentation erstellen.
+* [ ] Es müssen mindestens 4 Testfälle vorhanden sein.
+* [ ] Erstellt eine Securityanalyse, wie ihr euer Projekt schützen könnt.
+* [ ] Erstellt ein Projektfazit am Ende
+* [ ] Alle Projektdaten und Anhänge sind bis zum 5. Tag 15 Uhr abzugeben.
+
+Das Projekt wird nach der Abgabe den anderen Lernenden vorgestellt mit einer Präsentation (Powerpoint etc.) von max. 2 Seiten und einer Live-Demo. Die Präsentation wird nicht bewertet, jedoch ist es eure Visitenkarte :clap:
