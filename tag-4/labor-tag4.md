@@ -23,7 +23,7 @@ Bildet 2er Teams. Die Aufgaben sind in der Gruppe zu lösen und werden auch in d
 * [ ] Erstellt einen UI (User Interface - Benutzeroberfläche auf dem M5Stack.
 * [ ] Erstellt ein entsprechendes Dashboard auf io.adafruit.com.
 * [ ] Ihr müsst eine technische Dokumentation erstellen.
-* [ ] Es müssen mindestens 4 Testfälle vorhanden sein.
+* [ ] Es müssen mindestens 2 Testfälle vorhanden sein.
 * [ ] Erstellt eine Securityanalyse, wie ihr euer Projekt schützen könnt.
 * [ ] Erstellt ein Projektfazit am Ende
 * [ ] Alle Projektdaten und Anhänge sind bis zum 5. Tag 15 Uhr abzugeben.
