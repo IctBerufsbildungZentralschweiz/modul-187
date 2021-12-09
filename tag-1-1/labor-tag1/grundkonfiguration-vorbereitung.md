@@ -10,6 +10,6 @@ Macht euch vertraut mit der Hardware und schaut euch die Einstellungen an. Je be
 
 ![](../../.gitbook/assets/m5\_starts.png)
 
-Zum Verbinden werden wir als WLAN mit der <mark style="background-color:green;">SSID: ICT-BZ</mark> Gast verwenden. Das Kennwort bekommt ihr von eurem Instruktor.
+Zum Verbinden werden wir als WLAN mit der <mark style="background-color:green;">SSID: ICT-Gast</mark> verwenden. Das Kennwort bekommt ihr von eurem Instruktor.
 
 Geschaft ihr seit bereit für die nächsten Schritte :athletic\_shoe:
