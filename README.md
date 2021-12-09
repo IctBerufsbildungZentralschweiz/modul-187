@@ -20,8 +20,6 @@ Lest die HANOKS durch und erfasst eure Erwartungen im anschliessenden Mentimeter
 
 Euer Instruktor hat auf [https://mentimeter.com](https://mentimeter.com) eine Präsentation mit Word Cloud erstellt.&#x20;
 
-Für Gruppe 1 ist der Code `83 45 57 9`
-
 ![](.gitbook/assets/Mentimeter\_Erwartungen.png)
 
 Über den Link und Zugangscode könnt ihr an der Umfrage teilnehmen. Der Instruktor wird das Resultat später im Moodle hinterlegen.
