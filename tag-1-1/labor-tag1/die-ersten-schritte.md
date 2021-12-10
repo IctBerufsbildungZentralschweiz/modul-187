@@ -4,7 +4,7 @@ Als Einstieg bekommt ihr von eurem Instruktor einen Sensor "ENV III" Dieser kann
 
 ![](<../../.gitbook/assets/ENV III Sensor.png>)
 
-Schliesst den Sensor am Port <mark style="color:red;">**A **</mark>an und ladet folgende Beispieldatei herunter.
+Schliesst den Sensor am Port <mark style="color:red;">**A**</mark> an und ladet folgende Beispieldatei herunter.
 
 {% file src="../../.gitbook/assets/WeatherStation.m5f" %}
 

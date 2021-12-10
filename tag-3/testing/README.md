@@ -4,7 +4,7 @@ IoT-Tests ist eine Art von Test zur Überprüfung von IoT-Geräten. Heutzutage b
 
 ![](<../../.gitbook/assets/types of testing in IOT.png>)
 
-### Usability** / Funktionstest**
+### Usability **/ Funktionstest**
 
 Es gibt so viele Geräte unterschiedlicher Form und Formfaktoren, die von den Benutzern verwendet werden. Darüber hinaus variiert die Wahrnehmung auch von einem Benutzer zum anderen. Aus diesem Grund ist die Überprüfung der Benutzerfreundlichkeit des Systems beim IoT-Testen sehr wichtig.
 
@@ -16,7 +16,7 @@ Es gibt viele Geräte, die über das IOT-System verbunden werden können. Diese 
 
 Zuverlässigkeit und Skalierbarkeit sind wichtig für den Aufbau einer IOT-Testumgebung, die die Simulation von Sensoren durch den Einsatz von Virtualisierungstools und -technologien beinhaltet.
 
-### **Data Integrity **
+### **Data Integrity**&#x20;
 
 Es ist wichtig, die Datenintegrität bei IOT-Tests zu überprüfen, da es sich um grosse Datenmengen und deren Anwendung handelt.
 

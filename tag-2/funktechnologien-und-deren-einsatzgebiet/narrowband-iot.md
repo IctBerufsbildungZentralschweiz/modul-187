@@ -1,6 +1,6 @@
 # Narrowband-IoT
 
-**N**arrow**b**and-**IoT **(**NB-IoT**) ist eine Erweiterung zum LTE-Mobilfunkstandard und wird von Telekommunikationsanbietern bereitgestellt. Die Anwender können NB-IoT durch die Zahlung einer Gebühr nutzen, um Datenpakete zu übertragen.
+**N**arrow**b**and-**IoT** (**NB-IoT**) ist eine Erweiterung zum LTE-Mobilfunkstandard und wird von Telekommunikationsanbietern bereitgestellt. Die Anwender können NB-IoT durch die Zahlung einer Gebühr nutzen, um Datenpakete zu übertragen.
 
 Die bestehende LTE-Infrastruktur unterstützt hardwareseitig Narrowband-IoT. Daher genügt es in den meisten Fällen, wenn der Mobilfunkanbieter eine Softwareaktualisierung für die bestehende Mobilfunkinfrastruktur durchführt, um NB-IoT bereitzustellen. Dadurch kann (theoretisch) vom Mobilfunkanbieter zeitnah eine flächendeckende Versorgung mit NB-IoT umgesetzt werden, während bei Funktechnologien wie Sigfox, die Infrastruktur erst aufgebaut werden muss.
 

@@ -1,2 +1,0 @@
-# UWB (Ultrabreitband-Technologie) / AirTag
-

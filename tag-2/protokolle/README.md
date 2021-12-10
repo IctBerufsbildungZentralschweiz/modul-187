@@ -35,9 +35,9 @@ _Beispiele:_
 
 **Anmerkung zu Digitalen Übertragung**
 
-**Simplex **         Daten werden nur in eine Richtuing übertragen
+**Simplex**         Daten werden nur in eine Richtuing übertragen
 
-**Duplex **           Daten werden in beide Richtungen übertragen
+**Duplex**           Daten werden in beide Richtungen übertragen
 
 &#x20;                       Half-Duplex               Zeitgleich nur in eine Richtung
 
@@ -51,14 +51,14 @@ _Beispiele:_
 
 &#x20;
 
-**Parallel **           Daten werden gleichzeitig auf mehreren Drähten übermittelt.
+**Parallel**           Daten werden gleichzeitig auf mehreren Drähten übermittelt.
 
-**Seriell  **            Daten werden auf einem Draht hintereinander gesendet
+**Seriell**            Daten werden auf einem Draht hintereinander gesendet
 
 &#x20;
 
-**Master  **           Hauptgerät, welches in einem Verbund die Priorität hat oder die Steuerung_  _übernimmt.
+**Master**           Hauptgerät, welches in einem Verbund die Priorität hat oder die Steuerung  __  übernimmt.
 
-**Slave   **            In der Regel ohne Master nicht nutzbar.
+**Slave**            In der Regel ohne Master nicht nutzbar.
 
 &#x20;

@@ -33,7 +33,6 @@
     * [ZigBee](tag-2/funktechnologien-und-deren-einsatzgebiet/zigbee.md)
     * [Z-Wave](tag-2/funktechnologien-und-deren-einsatzgebiet/z-wave.md)
     * [WLAN](tag-2/funktechnologien-und-deren-einsatzgebiet/wlan.md)
-    * [UWB (Ultrabreitband-Technologie) / AirTag](tag-2/funktechnologien-und-deren-einsatzgebiet/uwb-ultrabreitband-technologie-airtag.md)
     * [GSM / GPRS / UMTS / LTE / 3G / 4G / 5G](tag-2/funktechnologien-und-deren-einsatzgebiet/gsm-gprs-umts-lte-3g-4g-5g.md)
     * [Sigfox](tag-2/funktechnologien-und-deren-einsatzgebiet/sigfox.md)
     * [Narrowband-IoT](tag-2/funktechnologien-und-deren-einsatzgebiet/narrowband-iot.md)
