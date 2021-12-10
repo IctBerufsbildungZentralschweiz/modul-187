@@ -22,11 +22,11 @@ Adafruit IO ist ein Cloud-Anbieter, der sich auf IoT-Bereitstellungen in der Clo
 
 ### Heute habt ihr folgende Aufgaben:
 
-* [ ] Erstellt auf Adafruit IO einen eigenen Account
-* [ ] Erstellt auf der Plattform ein Dashboard
+* [ ] Erstellt auf Adafruit IO einen eigenen Account.
+* [ ] Erstellt auf der Plattform ein Dashboard.
 * [ ] Passt euer Programm von gestern an, damit die Daten neu nicht mehr lokal gespeichert werden, sondern auf dem neu erstellten Dashboard angezeigt werden.
-* [ ] Dazu müsst ihr entsprechende Feeds erstellen für euere Sensoren
-* [ ] Wählt eine passende Anzeige
+* [ ] Dazu müsst ihr entsprechende Feeds erstellen für euere Sensoren.
+* [ ] Wählt eine passende Anzeige.
 * [ ] Die Sensordaten sollen weiterhin auf dem LCD-Screen zu sehen sein.
 * [ ] Die Interaktion soll nun auf dem Dashboard ersichtlich sein.
 * [ ] Lasst die Daten auch auf einem Graph mit Zeitachse anzeigen.
