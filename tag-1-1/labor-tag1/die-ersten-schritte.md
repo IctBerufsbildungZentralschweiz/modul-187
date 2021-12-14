@@ -24,15 +24,16 @@ Ok, kopieren kann jeder, lasst uns nun mit einem eigener Aufgabe beginnen.
 
 ### Ihr habt nun folgende Aufgaben:
 
-* [ ] Erstellt für jeden Sensorwert ein Anzeige, damit ihr die Werte auf dem LCD-Screen sehen könnt.
-* [ ] Fügt eine Funktion ein, damit wenn ein bestimmter Wert über- oder unterschritten wird der Bildschirmhintergrund die Farbe wechselt. Ihr könnt dazu aber auf die RGB-Bar verwenden.
+* [ ] Erstellt für jeden Sensorwert (Temperatur/Feuchtigkeit/Luftdruck) ein Anzeige, damit ihr die Werte auf dem LCD-Screen sehen könnt.
+* [ ] Fügt eine Funktion ein, damit wenn ein bestimmter Wert über- oder unterschritten wird der Bildschirmhintergrund die Farbe wechselt. Ihr könnt dazu aber auch die RGB-Bar verwenden.
 * [ ] Wie wäre es wenn der Wert über einen "slider" interaktiv verändert werden könnte? Versucht es.
 *   [ ] Speichert die Messdaten der auf eine microSD-Karte, welche ihr vom Instruktor erhält.
 
-    :exclamation:Diese muss als Dateisystem FAT32 haben.
+    :exclamation:Diese muss als Dateisystem FAT32 haben.\
+    Für einen Zeilenumbruch fügt ihr folgendes ein: ![](<../../.gitbook/assets/M5Flow\_Zeilenumbruch SD-Card.png>) Dies erleichert den Import im Excel dann :smile:
 * [ ] Versucht die Messdaten mit Excel auszuwerten und erstellt eine Grafik dazu.
-* [ ] Wenn ihr gut in der Zeit seit, könnt ihr noch weitere Funktionen austesten.
+* [ ] Wenn ihr gut in der Zeit seit, könnt ihr noch weitere Funktionen austesten. (Zeitstempel / RTC zu den Sensordaten)
 
 {% hint style="warning" %}
-Speichert eurer Programm zwischen durch ab, nicht das ihr jeweils von vorne beginnen müsst.
+Speichert eurer Programm zwischendurch ab, nicht das ihr jeweils von vorne beginnen müsst.
 {% endhint %}
