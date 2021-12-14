@@ -26,6 +26,6 @@ Bildet 2er Teams. Die Aufgaben sind in der Gruppe zu lösen und werden auch in d
 * [ ] Es müssen mindestens 2 Testfälle vorhanden sein.
 * [ ] Erstellt eine Securityanalyse, wie ihr euer Projekt schützen könnt.
 * [ ] Erstellt ein Projektfazit am Ende
-* [ ] Alle Projektdaten und Anhänge sind bis zum 5. Tag 15 Uhr abzugeben.
+* [ ] Alle Projektdaten und Anhänge sind bis zum 5. Tag 15 Uhr abzugeben auf der Kursplattform:  [https://kurse.ict-bz.ch](https://kurse.ict-bz.ch).
 
 Das Projekt wird nach der Abgabe den anderen Lernenden vorgestellt mit einer Präsentation (Powerpoint etc.) von max. 2 Seiten und einer Live-Demo. Die Präsentation wird nicht bewertet, jedoch ist es eure Visitenkarte :clap:
