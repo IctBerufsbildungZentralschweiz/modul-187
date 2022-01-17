@@ -8,7 +8,8 @@ Ihr bekommt für diese Aufgabe eine Projektvorlage:
 Projektvorlage
 {% endfile %}
 
-Bearbeitet dieses und gebt es zusammen mit den weiteren Daten auf der "IoT-Projektdaten" der Kursplattform (Moodle) am Tag 5 ab.
+Bearbeitet dieses und gebt es zusammen mit den weiteren Daten auf der "IoT-Projektdaten" der Kursplattform (Moodle) am Tag 5 ab.\
+Projektabgabe als **ZIP-File** "<mark style="color:red;">Projektname\_Lernender1+Lernender2.zip</mark>"
 
 Bildet 2er Teams. Die Aufgaben sind in der Gruppe zu lösen und werden auch in der Gruppe bewertet.
 
