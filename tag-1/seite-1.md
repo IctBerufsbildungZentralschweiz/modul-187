@@ -14,8 +14,8 @@
 
 Labor :alembic: bedeutet wir Experimentieren mit der Hardware und den Sensoren und Aktoren.
 
-Am 4. Tag Morgens gibt es einen schrfitlichen Test (30% Wertung) über die behandelten Themen.
+Am 4. Tag morgens gibt es einen schriftlichen Test (30% Wertung) über die behandelten Themen.
 
-Die weitere Bewertung des ÜKs erfolgt über eine Projektarbeit (70% Wertung) in 2er Gruppen, welche am 4. Tag Mittags startet.
+Die weitere Bewertung des ÜKs erfolgt über eine Projektarbeit (70% Wertung) in 2er Gruppen, welche am 4. Tag mittags startet.
 
-Zudem gibt es eine Präsentation und Live-Demo nach der Pause Nachmittags des 5. Tages.
+Zudem gibt es eine Präsentation und Live-Demo nach der Pause nachmittags des 5. Tages.
