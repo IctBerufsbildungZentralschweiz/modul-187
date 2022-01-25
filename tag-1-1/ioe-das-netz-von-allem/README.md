@@ -131,5 +131,5 @@ Dabei werden alle vorgestellten Verbindungen (M2M, M2P und P2P) genutzt.
 
 Zusammenfassend lässt sich also sagen, dass das IoE die Verbindungen zwischen Menschen, Prozessen, Daten und Dingen herstellt. Diese vier Säulen werden zusammengebracht, um Synergien zu nutzen, wodurch jede Säule die Wirkung und Fähigkeiten der anderen verstärkt. Das wahre Potential des IoE kann nur realisiert werden, wenn alle Teile reibungslos zusammenarbeiten.
 
-Dinge und Menschen sammeln Daten, stellen diese den vernetzten Säulen über die Infrastruktur des IoE zur Verfügung und bereiten sie innerhalb optimierter Prozesse auf, um fundierte Entscheidungen zu treffen und umzusetzen, welche innerhalb eines Wirtschafts- und Sozialsystems einen (Mehr-)Wert generieren.
+Dinge und Menschen sammeln Daten, stellen diese den vernetzten Säulen über die Infrastruktur des IoE zur Verfügung und bereiten sie mittels optimierter Prozesse auf, um fundierte Entscheidungen zu treffen und umzusetzen, welche innerhalb eines Wirtschafts- oder Sozialsystems einen (Mehr-)Wert generieren.
 
