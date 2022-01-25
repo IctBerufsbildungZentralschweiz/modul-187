@@ -12,6 +12,6 @@ Die Architektur von einem LoRaWAN-Netzwerk ist als Sterntopologie angeordnet. Da
 
 ![(Quelle: semtech.com)](../../../.gitbook/assets/LoRa-Diagram-NetworkArchitecture.jpg)
 
-Mit LoRaWAN können private Netzwerke aufgebaut werden. Hierbei liegt die Verantwortung für den Aufbau und Betrieb der Gateways beim Anwender. Dadurch besteht keine Abhängigkeit von kommerziellen Anbietern, wie bei NB-IoT und Sigfox, und Standorte ohne LoRaWAN-Abdeckung können durch die Installation eines Gateways ausgeleuchtet werden. Eine weitere Möglichkeit sind die kostenfreie und Community-basierten LoRaWAN-Netzwerke, wie z.B. The Things Network.
+Mit LoRaWAN können private Netzwerke aufgebaut werden. Hierbei liegt die Verantwortung für den Aufbau und Betrieb der Gateways beim Anwender. Dadurch besteht keine Abhängigkeit von kommerziellen Anbietern, wie bei NB-IoT und Sigfox, und Standorte ohne LoRaWAN-Abdeckung können durch die Installation eines Gateways ausgeleuchtet werden. Eine weitere Möglichkeit sind die kostenfreie und Community-basierten LoRaWAN-Netzwerke, wie z.B. [The Things Network](https://www.thethingsnetwork.org).
 
 Der Netzwerkserver und Anwendungsserver können vom Anwender betrieben werden oder es können die Dienst von Anbietern wie The Thing Network oder Loriot genutzt werden.
