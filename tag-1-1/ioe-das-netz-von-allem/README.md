@@ -12,8 +12,8 @@ Das **I**nternet **o**f **E**verything IoE (dt. Internet von Allem), bezeichnet 
 
 ![](<../../.gitbook/assets/IoE-The four pillars.png>)
 
-Beim IoE sind nicht nur Computer, Laptops, Tablets und Smartphones miteinander verbunden. Auch intelligente Maschinen, die auf einen Datenbestand zugreifen und erweiterte Vernetzungsdienste nutzen können, sind Bestandteil. \
-Einige Einsatzmöglichkeiten für IoE-Netze sind
+Beim IoE sind nicht nur Computer, Laptops, Tablets und Smartphones miteinander verbunden. Auch intelligente Maschinen, die auf einen Datenbestand zugreifen und erweiterte Vernetzungsdienste nutzen können, sind ein Bestandteil. \
+Einsatzmöglichkeiten für IoE-Netze sind:
 
 * Netzwerke aus Sensoren und elektronischen Geräten
 * Komplexe Aufbauten der Unterhaltungselektronik (VR, Konzerte, 4D-Kino, usw.)
@@ -22,7 +22,7 @@ Einige Einsatzmöglichkeiten für IoE-Netze sind
 * Kraftfahrzeuge und Verkehrsinfrastruktur&#x20;
 * Industriemaschinen und verteilte, intelligente Hardware&#x20;
 
-und viele mehr.
+und vieles mehr.
 
 Solche Konstellationen bieten einen bisher nicht gekannten, hohen Vernetzungsgrad zwischen Personen, Prozessen, Daten und Dingen.
 
@@ -41,10 +41,10 @@ Die ersten Rechengeräte waren riesige, raumgrosse Maschinen. Ganze Teams von Me
 Im Rahmen dieses Kurses definieren wir ein Computergerät als eine elektronische Maschine, die Berechnungen basierend auf einer Reihe von Anweisungen ausführt. Es besteht aus drei Hauptkomponenten:
 
 * eine zentrale Verarbeitungseinheit (CPU)
-* Speicher
+* Speicher (RAM)
 * Ein- und Ausgabeeinheit(en) (eng. **I**nput/**O**utput, I/O)
 
-Basierend darauf ist eine Digitaluhr ein Computergerät, da sie eine CPU hat, um ihr Programm auszuführen, Speicher um Einstellungen und andere Informationen zu persistieren und ein I/O-Gerät (Tasten, Display, etc.) um Benutzerinteraktionen zu ermöglichen. Eine analoge Uhr ohne weitere Funktionen ist keines, da ihr CPU und Speicher fehlen.
+Basierend darauf ist eine Digitaluhr ein Computergerät, da sie eine CPU hat, um ihr Programm auszuführen, Speicher um Einstellungen und andere Informationen zu gebrauchen und ein I/O-Gerät (Tasten, Display, etc.) um Benutzerinteraktionen zu ermöglichen. Eine analoge Uhr ohne weitere Funktionen ist keines, da ihr CPU und Speicher fehlen.
 
 #### Dinge im IoE
 
@@ -79,7 +79,7 @@ Werden sie interpretiert, zum Beispiel indem sie mit anderen Daten verglichen od
 
 ![](<../../.gitbook/assets/IoE-The four pillars\_data.png>)
 
-Typischerweise werden Daten im IoE als Informationen betrachtet, die **im Laufe der Zeit** von **externen Systemen** gesammelt wurden. Ein Beispiel wären demografische Daten über das Konsumverhalten der Bewohner einer Stadt, in welcher ein italienisches Restaurant betrieben wird. Diese sind von historischer Natur und haben einen Wert für die Betreiber, z.B.um das Angebot zu optimieren. Diese statistischen Daten werden als "data at rest" (sinngemäss "stillstehende Daten") bezeichnet.
+Typischerweise werden Daten im IoE als Informationen betrachtet, die **im Laufe der Zeit** von **externen Systemen** gesammelt wurden. Ein Beispiel wären demografische Daten über das Konsumverhalten der Bewohner einer Stadt, in welcher ein italienisches Restaurant betrieben wird. Diese sind von historischer Natur und haben einen Wert für die Betreiber, z.B. um das Angebot zu optimieren. Diese statistischen Daten werden als "data at rest" (sinngemäss "stillstehende Daten") bezeichnet.
 
 Sensoren und andere Geräte sind eine ständige Quelle neuer Daten, wodurch vorhandene Datenmengen immer schneller wachsen. Der Wert dieser Daten geht daher fast so schnell verloren, wie die Daten erzeugt wurden, und ein Grossteil von ihnen wird ungenutzt bleiben. Den maximalen Wert erreichen sie, wenn sie in Echtzeit abgerufen und verarbeitet werden. Dies nennt man "data in motion" ("Daten in Bewegung").
 
@@ -93,7 +93,7 @@ Es gibt drei Haupteigenschaften welche im Zusammenhang mit Big Data berücksicht
 
 Volumen bezeichnet die Menge der transportierten und gespeicherten Daten. Wissen über das angestrebte oder vorhandene Volumen kann unter anderem genutzt werden, um die Dimensionen der dafür notwendigen Hardware zu bestimmen.
 
-Vielfalt beschreibt, welchen Typ (Audio, Video, etc.) die Daten haben und wie stark homologisiert sie sind. Sie gibt Auskunft darüber, welche Typen von Datenspeicher optimal sind, um die Daten zu speichern und zu verarbeiten, und ob z.B. eine Vor-Verarbeitung durch Filter und ähnliches nötig ist.
+Vielfalt beschreibt, welchen Typ (Audio, Video, etc.) die Daten haben und wie stark sie sich gleichen. Sie gibt Auskunft darüber, welche Typen von Datenspeicher optimal sind, um die Daten zu speichern und zu verarbeiten, und ob z.B. eine Vor-Verarbeitung durch Filter und ähnliches nötig ist.
 
 Geschwindigkeit zeigt, wie schnell Daten produziert, empfangen und (vielleicht) verarbeitet werden. Sie gibt Rückschlüsse darüber, wie die transportierende Infrastruktur aufgebaut sein muss (Input/Output, Bandbreite, Latenz) und was für Ressourcen dafür benötigt werden (Netzwerk, CPU, Arbeitsspeicher, Speicher usw.). Die höchstmögliche Geschwindigkeitsbezeichnung ist "in Echtzeit".
 
