@@ -6,95 +6,130 @@ description: IoE - Internet of Everything
 
 {% file src="../../.gitbook/assets/ioe_heres_to_humanity.mp4" %}
 
-Das **I**nternet **o**f **E**verything IoE (dt. Internet von Allem), wird durch die Vernetzung von Personen, Prozessen, Daten und Dinge gebildet. Der Vorteil des IoE ist der, dass es **Menschen**, **Geräte**, \*Appliances, **Prozesse**, **Daten** und Sachen miteinander zu einem intelligenten Prozess verbindet. Der Zusammenhang darin besteht, dass beim IoE fast alles online und über das Internet miteinander verbunden ist und dass die Bereitstellung der Daten in Echtzeit erfolgt.
-
-Beim IoE sind nicht nur Computer, Laptops, Tablets und Smartphones miteinander verbunden, wie beim klassischen Internet, sondern auch intelligente Maschinen, die auf einen Datenbestand zugreifen und erweiterte Vernetzungsdienste nutzen können. Daher reichen die Einsatzmöglichkeiten für IoE-Netze von Sensornetzwerken und elektronischen Geräten sowie Geräten der Unterhaltungselektronik und der Wellnessindustrie über Einrichtungen einer Smart City, über die Einbindung von Kraftfahrzeugen und Verkehrseinrichtungen bis hin zu Industriemaschinen und verteilter, intelligenter Hardware. Solche Konstellationen bieten bisher einen nicht gekannten hohen Vernetzungsgrad zwischen Personen, Prozessen und Dingen.
-
-\*(Appliances = kombiniertes System aus Computer-Hardware und speziell auf diese Hardware optimierter Software, z.B. Haushaltsgeräte)
-
 ### Die Säulen von IoE
+
+Das **I**nternet **o**f **E**verything IoE (dt. Internet von Allem), bezeichnet die Vernetzung von **Personen**, **Prozessen**/\*Appliances, **Daten** und **Dingen**, mit dem Ziel, sie zu einem intelligenten, zielgerichteten Netzwerk zu verbinden. Der wichtigste Aspekt des IoE ist, dass fast alles über das Internet miteinander verbunden ist und die Bereitstellung von Daten in Echtzeit erfolgt.
 
 ![](<../../.gitbook/assets/IoE-The four pillars.png>)
 
-Die Idee, Dinge zu verbinden, ist nicht neu. Tatsächlich ist das Internet der Dinge (IoT) ein Begriff das wird seit Ende der 1990er Jahre weitgehend akzeptiert. Das IoT bezieht sich auf das Netzwerk von physische Objekte, die über das Internet zugänglich sind.
+Beim IoE sind nicht nur Computer, Laptops, Tablets und Smartphones miteinander verbunden. Auch intelligente Maschinen, die auf einen Datenbestand zugreifen und erweiterte Vernetzungsdienste nutzen können, sind Bestandteil. \
+Einige Einsatzmöglichkeiten für IoE-Netze sind
 
-Nicht alle Objekte, die mit dem IoT verbunden sind, werden Computergeräte sein, aber viele werden es sein. Also, was ist ein Computergerät? Es kann zwar leicht sein, einen Desktop oder Laptop zu identifizieren Computer kann die Grenze zwischen dem, was ein Computer ist und was nicht ist, verschwimmen. Ist ein Auto a Computergerät? Wie wäre es mit einer Uhr oder einem Fernseher?
+* Netzwerke aus Sensoren und elektronischen Geräten
+* Komplexe Aufbauten der Unterhaltungselektronik (VR, Konzerte, 4D-Kino, usw.)
+* Gesundheits- und Wellnessdienste
+* Einrichtungen einer Smart City
+* Kraftfahrzeuge und Verkehrsinfrastruktur&#x20;
+* Industriemaschinen und verteilte, intelligente Hardware&#x20;
 
-Die ersten Rechengeräte (Computer) waren riesige, raumgrosse Maschinen, die Teams von Menschen aufzubauen, zu verwalten und zu pflegen. Heute sind sie exponentiell schneller und nur einen Bruchteil der Größe ihrer Vorgänger. Für die Zwecke dieses Kurses a Computergerät ist eine elektronische Maschine, die Berechnungen basierend auf einer Reihe von Anweisungen und besteht aus drei Hauptkomponenten: einer zentralen Verarbeitungseinheit (CPU), Speicher und eine Eingabe-/Ausgabeeinheit.
+und viele mehr.
 
-Basierend auf der obigen Definition ist eine Digitaluhr ein Computergerät, aber ein analoges Uhr nicht. Die Digitaluhr hat eine CPU, um ihr Programm auszuführen, sie hat einen Speicher zum Speichern der Programm- und andere Informationen, und verfügt über ein E/A-Gerät, um eine Benutzerinteraktion zu ermöglichen (Bildschirm, Display, Tasten, Tonsignale usw.). Obwohl die analoge Uhr über die I/O-Komponente verfügt, es fehlt CPU und Speicher.
+Solche Konstellationen bieten einen bisher nicht gekannten, hohen Vernetzungsgrad zwischen Personen, Prozessen, Daten und Dingen.
 
-### Was sind Dinge (Geräte)?
+\*(Appliances = kombiniertes System aus Computer-Hardware und speziell auf diese Hardware optimierter Software, z.B. Haushaltsgeräte)
+
+### Dinge (Geräte)
+
+Die Idee, Dinge zu verbinden, ist nicht neu. Tatsächlich ist das "Internet der Dinge" (eng. **I**nternet **o**f **T**hings, **IoT**) ein Begriff, der seit Ende der 1990er Jahre weitgehend bekannt und akzeptiert ist. Das IoT bezeichnet Netzwerke von physischen Objekten, die über das Internet verbunden sind.
+
+Nicht alle Objekte im IoT sind klassische Computergeräte. Was genau kann man heutzutage überhaupt als "Computer" bezeichnen? Einen Desktop oder Laptop als solchen zu identifizieren ist einfach. Mit der fortgesetzten Integration von Elektronik und Software in Alltagsgeräten wird dies aber zunehmend schwieriger. Ist ein Auto ein Computer? Eine Uhr? Ein Kühlschrank?
+
+#### Was sind Dinge?
+
+Die ersten Rechengeräte waren riesige, raumgrosse Maschinen. Ganze Teams von Menschen waren nötig, um diese aufzubauen, zu verwalten und zu pflegen. Seither sind sie exponentiell schneller und kleiner geworden, übernahmen neue Aufgaben und wurden in Dinge integriert, für die man sich eine sinnvolle Verwendung von Rechenleistung ursprünglich gar nicht vorstellen konnte.
+
+Im Rahmen dieses Kurses definieren wir ein Computergerät als eine elektronische Maschine, die Berechnungen basierend auf einer Reihe von Anweisungen ausführt. Es besteht aus drei Hauptkomponenten:
+
+* eine zentrale Verarbeitungseinheit (CPU)
+* Speicher
+* Ein- und Ausgabeeinheit(en) (eng. **I**nput/**O**utput, I/O)
+
+Basierend darauf ist eine Digitaluhr ein Computergerät, da sie eine CPU hat, um ihr Programm auszuführen, Speicher um Einstellungen und andere Informationen zu persistieren und ein I/O-Gerät (Tasten, Display, etc.) um Benutzerinteraktionen zu ermöglichen. Eine analoge Uhr ohne weitere Funktionen ist keines, da ihr CPU und Speicher fehlen.
+
+#### Dinge im IoE
 
 ![](<../../.gitbook/assets/IoE-The four pillars\_things.png>)
 
-Derzeit umfasst die hervorgehobene Säule der Dinge verschiedene Arten von traditionellen Computer und Computergeräte wie Desktops, Laptops, Smartphones, Tablets, Grossrechner und Computercluster. Das IoT wird jedoch alle Arten von Objekten umfassen, einschliesslich Objekte und Geräte, die nicht traditionell verbunden sind. Man schätzt das tatsächlich einmal 99 Prozent der physischen Objekte eines Tages verbunden sein werden.&#x20;
+Derzeit umfasst die hervorgehobene Säule der Dinge hauptsächlich verschiedene Arten von traditionellen Computergeräten wie Desktops, Laptops, Smartphones, Tablets, Grossrechner und Computercluster. Sie beinhält jedoch alle Arten von Objekten, insbesondere auch solche, die bisher nicht vernetzt sind. Man schätzt das tatsächlich einmal 99 Prozent der physischen Objekte verbunden sein werden.&#x20;
 
-Diese Objekte enthalten eingebettete Technologie zur Interaktion mit internen Servern und den Aussenumgebung. Diese Objekte sind netzwerkfähig und können über eine sichere, zuverlässige und verfügbare Netzwerkplattform. Das IoT bezieht sich jedoch auf eine einzelne Technologieübergang; die Fähigkeit, Objekte zu verbinden, die zuvor nicht verbunden waren, also diese Objekte können über das Netzwerk kommunizieren.
+Sie werden eingebettete Technologie enthalten, welche ihnen Interaktionen mit der direkten Umgebung und spezifischen Servern ermöglicht. Dabei sollen sie eine sichere und zuverlässige Netzwerkplattform verwenden - einige davon, welche heute entwickelt oder schon verwendet werden, werden wir später im Kurs kennenlernen.
 
-Die Verfügbarkeit von Daten, wenn Objekte erfassen und kommunizieren können, hat die Fähigkeit, ändern, wie und wo Entscheidungen getroffen werden, wer die Entscheidungen trifft und die Prozesse, die Einzelpersonen und Unternehmen verwenden, um diese Entscheidungen zu treffen. Das IoE ist gebaut über die Verbindungen zwischen Menschen, Prozessen, Daten und Dingen. Das sind die vier Säulen des IoE, wie in der Abbildung gezeigt. Beim IoE geht es jedoch nicht um diese vier Dimensionen in Isolation. Jeder verstärkt die Fähigkeiten der anderen drei. Es befindet sich im Schnittpunkt aller diese Elemente, dass die wahre Macht des IoE realisiert.
+Das IoT beschränkt sich darauf, **physische Objekte** miteinander zu verbinden, insbesondere solche, welche zuvor nicht über Netzwerke kommunizieren konnten. Dabei tauschen sie lediglich **lokale Daten** aus, welche meist in Echtzeit von den Geräten im Netzwerk gesammelt und verarbeitet werden. Was mit den Daten geschieht ist daher durch die Grenzen des Netzwerks und die Fähigkeiten der integrierten Geräte begrenzt.
 
-Laut [Internet World Stats](https://www.internetworldstats.com) (Stand Juni 2012) zeigen statistische Daten, dass es rund 2,4 Milliarden Nutzer im Internet gab. Das waren nur 34 % der gesamten Welt Population. **Die Zahl der mit dem Internet verbundenen Geräte überstieg 2012 die der Weltbevölkerung**. Dazu gehören traditionelle Computergeräte und mobile Geräte sowie neue industrielle und Verbrauchergeräte, die wir als „Dinge“ betrachten. Obwohl dies wie viele Geräte im Internet erscheinen mag, macht es weniger als 1% der aus die Objekte, die verbunden werden könnten.
+Im IoE sind Dinge mit **externen Daten** und **Menschen** verknüpft, wodurch verändert werden kann, wie, wo und von wem Entscheidungen getroffen und welche **Prozesse** dadurch angestossen werden. Die physischen Geräte dienen dabei sowohl als Quelle von Daten, zur Verarbeitung dieser aber auch zur Ausführung der am Ende eines Prozesses getroffenen Entscheidungen.
 
 #### Wie sieht es heute aus?
 
-Man rechnet heute mit über 50 Milliarden "Dinge" im Internet und geht von einer Weltbevölkerung von 7.9 Milliarden Menschen aus und etwa 5.1 Milliarden Menschen, welche das Internet nutzen. Dies ist erst der Anfang.
+Laut [Internet World Stats](https://www.internetworldstats.com) (Stand Juni 2012) gab es 2012 rund 2,4 Milliarden Nutzer im Internet, nur 34% der Weltbevölkerung, während die Anzahl der mit dem Netz verbundenen Geräte diese mit weit über 10 Milliarden bereits deutlich überstieg. Dazu gehören traditionelle Computergeräte, mobile Geräte, sowie neue industrielle und Verbrauchergeräte, die wir als "Dinge" betrachten. Obwohl dies eine beachtliche Zahl zu sein scheint, umfasst sie schätzungsweise weniger als 1% aller Objekte, welche theoretisch verbunden werden könnten.
+
+Man rechnet heute mit über 50 Milliarden "Dingen" im Internet und geht von einer Weltbevölkerung von 7.9 Milliarden Menschen aus, wovon etwa 5.1 Milliarden das Internet nutzen. Dies ist erst der Anfang.
 
 ![](<../../.gitbook/assets/IoE Prozess der Dinge zur Weltbevölkerung.png>)
 
-### Was sind Daten?
+### Daten
 
-Daten sind ein Schlüsselelement aller Computersysteme – von frühen Computersystemen bis hin zu aktuellen Systemen. Ein vorherrschender Grund für die Verwendung von Computersystemen war die Verarbeitung und Übertragung von Daten.
+#### Was sind Daten?
+
+Daten sind ein Schlüsselelement aller Computersysteme. Einer der Hauptgründe für die Einführung computergestützter Systeme war die Verarbeitung und Übertragung von Daten.\
+Sie sind Werte, welche allem, was uns umgibt, zugewiesen werden können. Isoliert betrachtet sind sie aber häufig bedeutungslos. "Volumen: 500 Kubikmeter" oder "Temperatur: 3° Celsius" sind Daten, welche ohne Kontext keinen Mehrwert generieren.&#x20;
+
+Werden sie interpretiert, zum Beispiel indem sie mit anderen Daten verglichen oder korreliert werden, werden sie nützlicher. Sinkt das Volumen über längere Zeit, können basierend darauf Schlüsse gezogen und Entscheidugen getroffen werden. Aus den Daten wurden **Informationen**. Durch weitere Verarbeitung werden diese zu **Wissen:** Wie lange es dauert, das Gefäss zu leeren, wie stark der Abfluss varriert werden kann, wie die Temperatur das Volumen beeinflusst, usw.
+
+#### Daten im IoE
 
 ![](<../../.gitbook/assets/IoE-The four pillars\_data.png>)
 
-Daten sind ein Wert, der allem, was uns umgibt, zugewiesen wird. Daten sind überall. Jedoch von selbst können Daten ziemlich bedeutungslos sein. Wie wir die Daten interpretieren, zum Beispiel durch korrelieren oder vergleichen, wird es nützlicher. Diese nützlichen Daten sind jetzt Informationen. Wie diese Informationen angewendet oder verstanden werden, werden diese dann zu Wissen.
+Typischerweise werden Daten im IoE als Informationen betrachtet, die **im Laufe der Zeit** von **externen Systemen** gesammelt wurden. Ein Beispiel wären demografische Daten über das Konsumverhalten der Bewohner einer Stadt, in welcher ein italienisches Restaurant betrieben wird. Diese sind von historischer Natur und haben einen Wert für die Betreiber, z.B.um das Angebot zu optimieren. Diese statistischen Daten werden als "data at rest" (sinngemäss "stillstehende Daten") bezeichnet.
 
-Typischerweise werden Daten als Informationen betrachtet, die im Laufe der Zeit gesammelt wurden. Es sind zum Beispiel verschiedene Transaktionen erhoben worden, für die Auftragsabwicklung. Diese Daten haben einen Wert für die Organisation und sind historischer Natur. Dies sind statische Daten, die wir 'data at rest' nennen.
+Sensoren und andere Geräte sind eine ständige Quelle neuer Daten, wodurch vorhandene Datenmengen immer schneller wachsen. Der Wert dieser Daten geht daher fast so schnell verloren, wie die Daten erzeugt wurden, und ein Grossteil von ihnen wird ungenutzt bleiben. Den maximalen Wert erreichen sie, wenn sie in Echtzeit abgerufen und verarbeitet werden. Dies nennt man "data in motion" ("Daten in Bewegung").
 
-Da jedoch das beschleunigte Wachstum grosser Datenmengen anhält, wird ein Grossteil davon ungenutz bleiben. Der Wert von Daten geht fast so schnell verloren, wie sie erzeugt werden. Geräte, Sensoren und Video liefern diese ständig wachsende Quelle neuer Daten. Diese Daten bieten maximalen Wert während es in Echtzeit interagiert. Wir nennen dies „Daten in Bewegung“.
+Diese Unmengen von Daten bieten gewaltiges Potential zur Verbesserung unserer Welt, wie der Lösung globaler Gesundheitsprobleme oder der Erhöhung der Bildungsqualität. Alleine dienen sie aber keinem Zweck. Eine grosse Datenmenge, auf die niemand zugreifen kann, nützt niemandem. Daher müssen im IoE hochentwickelte, intelligente Wege entwickelt werden um Daten zu sammeln, zu verwalten und auszuwerten. So kann es Menschen und Maschinen ermöglicht werden, fundierte Entscheidungen zu treffen und geeignete Massnahmen zu ergreifen.
 
-Dieser Zustrom neuer Datenmöglichkeiten bietet neue Wege zur Verbesserung unserer Welt, von Lösung globaler Gesundheitsprobleme und zur Verbesserung der Bildung. Es gibt unglaubliches Potenzial für intelligente Lösungen, um Daten zu sammeln, zu verwalten und auszuwerten der menschlichen Kommunikationen. Infolgedessen wird es immer mehr um das Internet von allem gehen „Daten in Bewegung“.
+#### Big Data
 
-#### Berbeiten von Big Data
+Unter "Big Data" versteht man die unendliche Fülle von Informationen welche im Internet durch die wachsende Anzahl verbundener Geräte generiert werden. Die Menge dieser steigt jeden Tag und erzeugt einen kaum fassbaren Strom von Daten. Unternehmen müssen lernen, diesen zu verwalten und zu nutzen.
 
-Ein treibender Faktor für dieses Informationswachstum ist die Anzahl der Geräte, die mit dem Internet und die Anzahl der Verbindungen zwischen diesen Geräten. Aber das ist nur der Anfang. Täglich werden neue Geräte mit dem Internet verbunden, wodurch eine Fülle entsteht von neuen Inhalten.&#x20;
+Es gibt drei Haupteigenschaften welche im Zusammenhang mit Big Data berücksichtigt werden müssen: **Volumen**, **Vielfalt** und **Geschwindigkeit**.
 
-Mit dieser Menge an Informationen müssen Unternehmen lernen, Daten zu verwalten und auch, wie man „Big Data“ verwaltet.
+Volumen bezeichnet die Menge der transportierten und gespeicherten Daten. Wissen über das angestrebte oder vorhandene Volumen kann unter anderem genutzt werden, um die Dimensionen der dafür notwendigen Hardware zu bestimmen.
 
-Es gibt drei Hauptdimensionen von Big Data, die berücksichtigt werden müssen: **Volumen**, **Vielfalt** und **Geschwindigkeit**.&#x20;
+Vielfalt beschreibt, welchen Typ (Audio, Video, etc.) die Daten haben und wie stark homologisiert sie sind. Sie gibt Auskunft darüber, welche Typen von Datenspeicher optimal sind, um die Daten zu speichern und zu verarbeiten, und ob z.B. eine Vor-Verarbeitung durch Filter und ähnliches nötig ist.
 
-Volume beschreibt die Datenmenge, die transportiert und gespeichert wird. Vielfalt beschreibt die Datentyp ist. Die Geschwindigkeit beschreibt die Geschwindigkeit, mit der sich diese Daten bewegen. Daten können nicht ohne Infrastruktur umziehen. Die Schnelligkeit der Infrastruktur (Input/Output, Bandbreite und Latenz) und die Möglichkeit, schnell optimale Ressourcen (Netzwerk, CPU, Arbeitsspeicher und Speicher) wirkt sich direkt auf die Geschwindigkeit der Daten aus.
+Geschwindigkeit zeigt, wie schnell Daten produziert, empfangen und (vielleicht) verarbeitet werden. Sie gibt Rückschlüsse darüber, wie die transportierende Infrastruktur aufgebaut sein muss (Input/Output, Bandbreite, Latenz) und was für Ressourcen dafür benötigt werden (Netzwerk, CPU, Arbeitsspeicher, Speicher usw.). Die höchstmögliche Geschwindigkeitsbezeichnung ist "in Echtzeit".
 
 ![](../../.gitbook/assets/big-data.png)
 
 ### Menschen
 
-Die Realität ist, dass wir alle miteinander verbunden sind (ob es euch gefällt oder nicht).
-
 ![](<../../.gitbook/assets/IoE-The four pillars\_people.png>)
 
-Daten allein dienen keinem Zweck. Eine grosse Datenmenge, auf die niemand zugreifen kann, dient niemanden. Die Organisation dieser Daten und deren Umwandlung in nutzbare Informationen ermöglicht es den Menschen, fundiertere Entscheidungen zu treffen und geeignete Massnahmen zu ergreifen. Das schafft wirtschaftliche Wert in einer Wirtschaft, die durch das Internet von allem ermöglicht wird.
+Menschen sind eine zentrale Figur jedes Wirtschaftssystems. Sie agieren als Konsumenten, wenn es darum geht, ihre Bedürfnisse zu befriedigen, aber auch als Produzenten, die Produkte und Dienstleistungen entwickeln und anbieten, um dies zu ermöglichen.
 
-Deshalb ist der Mensch eine der vier Säulen. Menschen sind eine zentrale Figur jedes Wirtschaftsystems. Menschen interagieren als Produzenten und Konsumenten, wenn es darum geht, das Wohlbefinden zu verbessern durch Befriedigung menschlicher Bedürfnisse. Ob die Verbindungen von Mensch zu Mensch (**P2P**) sind, Maschine-zu-Mensch (**M2P**) oder Maschine-zu-Maschine (**M2M**), alle Verbindungen und die Daten die aus diesen Verbindungen generiert werden, werden verwendet, um den Wert für die Menschen zu steigern.&#x20;
+Dabei nutzen sie Kontakte und Verbindungen von Mensch zu Mensch (person-to-person, **P2P**), Maschine zu Mensch (machine-to-person, **M2P**) oder Maschine zu Maschine (machine-to-machine, **M2M**) und die Daten, die aus diesen Interaktionen generiert werden, um die Qualität und den Wert der Produkte zu steigern.
 
-Das Internet wimmelt von Daten. Zugriff auf die Daten haben und dann Massnahmen ergreifen auf dem Wissen, das aus diesen Informationen gewonnen wird, ist das IoE.&#x20;
+![](<../../.gitbook/assets/IoE-The four pillars\_Kominationen P2P M2M M2P.png>)
 
-Zum Beispiel, Als Jack Andraka ein 15-jähriger Gymnasiast war, griff er auf Informationen zu im Internet, um einen Test zu entwickeln, der Bauchspeicheldrüsenkrebs in einem viel früheren Stadium erkennen könnte, wenn die Überlebenschancen deutlich besser sind.&#x20;
+Der Wert ist ein Mass für den Nutzen den etwas innerhalb eines Wirtschaftssystems hat. Es sind die Menschen, die den Wert von etwas durch das Gesetz von Angebot und Nachfrage (im Kapitalismus) bestimmen.&#x20;
 
-Was würden Sie tun, um Ihre Welt zu einem besseren Ort zu machen?
+Im IoE greifen Menschen auf extern gewonnene Daten und Dinge zu, um auf dem daraus gewonnenen Wissen Massnahmen zu ergreifen und Entscheidungen zu treffen. Daten und Analytik sind wichtig, aber am Ende ist es das Urteil der Menschen, welches diese in Erkenntnisse umwandelt und einen Wert generiert. Das IoE liefert genau, zeitnah und in genügender Menge die Informationen, die dafür nötig sind.
 
-#### Informationen verändern Verhalten
-
-Der Wert ist ein Mass für den Nutzen in einem Wirtschaftssystem. Es sind die Menschen, die den Wert bestimmen von Angeboten durch ein Austauschsystem. Es ist wichtig hervorzuheben, dass Daten und Analytik wichtig sind, es ist das Urteil von Menschen, das Daten in Erkenntnisse verwandelt und Erkenntnisse in IoE-Werte. Das IoE ermöglicht genaue und zeitnahe Informationen, die dazu führen können, dass sich der Mensch verändert im Verhalten zum Wohle aller Menschen.
+Jack Andraka zum Beispiel, griff als 15-jähriger Gymnasiast auf Informationen aus dem Internet zu, um einen Test zu entwickeln, der Bauchspeicheldrüsenkrebs in einem frühen Stadium erkennen kann. Durch die, im Vergleich zu anderen Tests, frühe Diagnose, erhöhen sich die Überlebenschancen der Patienten beträchtlich.
 
 ### Prozesse
 
-
-
 ![](<../../.gitbook/assets/IoE-The four pillars\_prozesse.png>)
 
-Die vierte Säule ist der Prozess. Prozesse spielen eine wichtige Rolle dabei, wie die anderen Säulen von Dinge, Daten und Menschen zusammenarbeiten, um einen Mehrwert in der vernetzten Welt zu schaffen von IoE. Das Internet hat die Art und Weise, wie Unternehmen ihre Lieferketten verwalten, in Art und Weise revolutioniert wie Verbraucher einkaufen. Bald werden wir Einblicke in Prozesse haben, die wir nie sehen konnten zuvor. Dies bietet Möglichkeiten, diese Interaktionen schneller und einfacher zu gestalten. Mit dem richtigen Prozess werden Verbindungen relevant zu Mehrwert, weil die richtigen Informationen, der richtigen Person zur richtigen Zeit in geeigneter Weise zugestellt werden. Prozesse erleichtern die Interaktion zwischen Menschen, Dingen und Daten. Das IoE bringt sie heute alle zusammen durch die Kombination von Maschine-zu-Maschine (M2M), Maschine-zu-Mensch (M2P) und People-to-People (P2P)-Verbindungen.
+Ein Prozess ist ein geregelter Ablauf von mehreren Aktionen, die von einem oder mehreren Akteuren durchgeführt werden und dazu dienen, Informationen im Sinne des Endverbrauchers aufzubereiten, zu transportieren und bereitzustellen. Ein Beispiel ist der Prozess, wie Bilder eines Fussballspiels über eine Kamera aufgezeichnet, in elektrische Signale umgewandelt, über ein Netzwerk transportiert und von einem Empfangsgerät wieder in konsumierbare Bilder umgewandelt werden.
 
-![](<../../.gitbook/assets/IoE-The four pillars\_Kominationen P2P M2M M2P.png>)
+Das Internet hat vieles revolutioniert, zum Beispiel wie Unternehmen ihre Lieferketten verwalten oder die Art und Weise wie Verbraucher ihre Bedarfsgüter einkaufen. Dies bietet Möglichkeiten, die entsprechenden Prozesse anzupassen, um Interaktionen schneller und einfacher zu gestalten.
+
+Im IoE erleichtern optimierte Prozesse die Interaktion zwischen Menschen, Dingen und Daten, indem sie dafür sorgen, dass die richtigen Informationen der richtigen Person zur richtigen Zeit zugestellt werden. Zum Beispiel durch die Optimierung von Zahlungsabläufen um den Verbrauchern ein angenehmeres, unkompliziertes Einkaufserlebnis zu ermöglichen.
+
+Dabei werden alle vorgestellten Verbindungen (M2M, M2P und P2P) genutzt.
+
+### Das Internet of Everything
+
+Zusammenfassend lässt sich also sagen, dass das IoE die Verbindungen zwischen Menschen, Prozessen, Daten und Dingen herstellt. Diese vier Säulen werden zusammengebracht, um Synergien zu nutzen, wodurch jede Säule die Wirkung und Fähigkeiten der anderen verstärkt. Das wahre Potential des IoE kann nur realisiert werden, wenn alle Teile reibungslos zusammenarbeiten.
+
+Dinge und Menschen sammeln Daten, stellen diese den vernetzten Säulen über die Infrastruktur des IoE zur Verfügung und bereiten sie innerhalb optimierter Prozesse auf, um fundierte Entscheidungen zu treffen und umzusetzen, welche innerhalb eines Wirtschafts- und Sozialsystems einen (Mehr-)Wert generieren.
 
