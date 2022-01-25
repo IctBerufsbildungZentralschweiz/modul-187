@@ -37,7 +37,7 @@
     * [Sigfox](tag-2/funktechnologien-und-deren-einsatzgebiet/sigfox.md)
     * [Narrowband-IoT](tag-2/funktechnologien-und-deren-einsatzgebiet/narrowband-iot.md)
     * [LoRa - LoRaWAN](tag-2/funktechnologien-und-deren-einsatzgebiet/lora-lorawan/README.md)
-      * [LoRaWAN](tag-2/funktechnologien-und-deren-einsatzgebiet/lora-lorawan/lorawan.md)
+      * [TTN The Things Network](tag-2/funktechnologien-und-deren-einsatzgebiet/lora-lorawan/ttn-the-things-network.md)
   * [⚗ Labor Tag2](tag-2/labor-tag2.md)
 * [TAG 3](tag-3/README.md)
   * [🏁 Tagesziele](tag-3/tagesziele.md)
