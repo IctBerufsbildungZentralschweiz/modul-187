@@ -73,7 +73,7 @@ Man rechnet heute mit über 50 Milliarden "Dingen" im Internet und geht von eine
 Daten sind ein Schlüsselelement aller Computersysteme. Einer der Hauptgründe für die Einführung computergestützter Systeme war die Verarbeitung und Übertragung von Daten.\
 Sie sind Werte, welche allem, was uns umgibt, zugewiesen werden können. Isoliert betrachtet sind sie aber häufig bedeutungslos. "Volumen: 500 Kubikmeter" oder "Temperatur: 3° Celsius" sind Daten, welche ohne Kontext keinen Mehrwert generieren.&#x20;
 
-Werden sie interpretiert, zum Beispiel indem sie mit anderen Daten verglichen oder korreliert werden, werden sie nützlicher. Sinkt das Volumen über längere Zeit, können basierend darauf Schlüsse gezogen und Entscheidugen getroffen werden. Aus den Daten wurden **Informationen**. Durch weitere Verarbeitung werden diese zu **Wissen:** Wie lange es dauert, das Gefäss zu leeren, wie stark der Abfluss varriert werden kann, wie die Temperatur das Volumen beeinflusst, usw.
+Werden sie interpretiert, zum Beispiel indem sie mit anderen Daten verglichen oder korreliert werden, werden sie nützlicher. Sinkt das Volumen über längere Zeit, können basierend darauf Schlüsse gezogen und Entscheidugen getroffen werden. Aus den Daten wurden **Informationen**. Durch weitere Verarbeitung werden diese zu **Wissen:** Wie lange es dauert, das Gefäss zu leeren, wie stark der Abfluss variiert werden kann, wie die Temperatur das Volumen beeinflusst, usw.
 
 #### Daten im IoE
 
