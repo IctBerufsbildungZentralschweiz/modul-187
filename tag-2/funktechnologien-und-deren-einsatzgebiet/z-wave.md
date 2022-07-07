@@ -1,6 +1,6 @@
 # Z-Wave
 
-Z-Wave ist ein international anerkannter, drahtloser Funkstandard, der von der Firma Sigma Designs und der [Z-Wave Alliance ](https://z-wavealliance.org)für die Heimautomatisierung und angrenzende Aussenanlagen entwickelt und für Smart-Home-Anwendungen weltweit lizenziert wurde. Diese Funkkommunikation ist auf geringen Energieverbrauch und hohe Kommunikationssicherheit optimiert. ![](../../.gitbook/assets/Z-Wave\_logo.png)
+Z-Wave ist ein international anerkannter, drahtloser Funkstandard, der von der Firma Sigma Designs und der [Z-Wave Alliance ](https://z-wavealliance.org/)für die Heimautomatisierung und angrenzende Aussenanlagen entwickelt und für Smart-Home-Anwendungen weltweit lizenziert wurde. Diese Funkkommunikation ist auf geringen Energieverbrauch und hohe Kommunikationssicherheit optimiert. <img src="../../.gitbook/assets/Z-Wave_logo.png" alt="" data-size="line">
 
 Ein Grossteil der im Handel erhältlichen Geräte sind Z-Wave-zertifiziert und funktionieren somit garantiert auch mit Z-Wave-Geräten anderer Hersteller zusammen. Somit ist es möglich, Geräte unterschiedlicher Hersteller und Anwendungsbereiche in einem gemeinsamen Funknetz zu betreiben. Installationen wie Lichtschalter, elektronische Türschlösser, Heizungsthermostate, Jalousiesteuerungen und andere Geräte wie Sensoren, Wandschalter, Rauchwarnmelder können über Smartphones, Tablets und/oder Internetanwendungen gesteuert werden.
 

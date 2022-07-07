@@ -12,7 +12,7 @@ Jeder Sensor hat entsprechend ein Datenblatt in welchem seine Spezifikationen be
 
 ![](<../../.gitbook/assets/ENV III Sensor.png>)
 
-Aus dem Datenblatt könnt ihr entnehmen das beim ENV-III ein **SHT30** ![](../../.gitbook/assets/SHT30.png)und ein **QMP6988** ![](<../../.gitbook/assets/QMP 6988.png>)verwendet werden.
+Aus dem Datenblatt könnt ihr entnehmen das beim ENV-III ein **SHT30** <img src="../../.gitbook/assets/SHT30.png" alt="" data-size="line">und ein **QMP6988** <img src="../../.gitbook/assets/QMP 6988.png" alt="" data-size="line">verwendet werden.
 
 ### Aufgabe
 

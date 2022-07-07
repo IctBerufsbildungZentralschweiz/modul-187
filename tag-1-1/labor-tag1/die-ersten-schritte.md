@@ -30,10 +30,15 @@ Ok, kopieren kann jeder, lasst uns nun mit einem eigener Aufgabe beginnen.
 *   [ ] Speichert die Messdaten der auf eine microSD-Karte, welche ihr vom Instruktor erhält.
 
     :exclamation:Diese muss als Dateisystem FAT32 haben.\
-    Für einen Zeilenumbruch fügt ihr folgendes ein: ![](<../../.gitbook/assets/M5Flow\_Zeilenumbruch SD-Card.png>) Dies erleichert den Import im Excel dann :smile:
+    Für einen Zeilenumbruch fügt ihr folgendes ein: <img src="../../.gitbook/assets/M5Flow_Zeilenumbruch SD-Card.png" alt="" data-size="original"> Dies erleichert den Import im Excel dann :smile:
 * [ ] Versucht die Messdaten mit Excel auszuwerten und erstellt eine Grafik dazu.
 * [ ] Wenn ihr gut in der Zeit seit, könnt ihr noch weitere Funktionen austesten. (Zeitstempel / RTC zu den Sensordaten)
 
 {% hint style="warning" %}
 Speichert eurer Programm zwischendurch ab, nicht das ihr jeweils von vorne beginnen müsst.
 {% endhint %}
+
+Damit ihr die Sensoren besser plazieren könnt habt ihr ein Beutel mit LEGO-Teile bekommen.\
+Anbei eine Bauanleitung. Ihr dürft natürlich auch kreativ sein :smile:
+
+{% file src="../../.gitbook/assets/Bauanleitung_M5-Stack_Brick-Modul.pdf" %}

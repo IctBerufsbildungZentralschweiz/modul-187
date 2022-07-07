@@ -12,7 +12,7 @@ Letztere lassen sich meist nicht verändern. Die optimale Ausnutzung der technis
 
 Tethering (deutsch: Anbinden) bezeichnet die Verbindung eines Smartphones mit einem Client, um diesem eine Internetverbindung über GSM/UMTS/LTE zu ermöglichen. Das Mobiltelefon übernimmt damit die Rolle eines Modems.
 
-Die Anbindung erfolgt meist Kabelgebunden (USB) oder drahtlos (Bluetooth). Wird die Anbindung über das WLAN erstellt, spricht man von einem Hotspot. ![](../../.gitbook/assets/hotspot.jpg)
+Die Anbindung erfolgt meist Kabelgebunden (USB) oder drahtlos (Bluetooth). Wird die Anbindung über das WLAN erstellt, spricht man von einem Hotspot. <img src="../../.gitbook/assets/hotspot.jpg" alt="" data-size="line">
 
 ![Tethering / Hotspot](../../.gitbook/assets/wlan\_tethering\_hotspot.png)
 

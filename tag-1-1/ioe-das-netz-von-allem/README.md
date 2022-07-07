@@ -60,7 +60,7 @@ Im IoE sind Dinge mit **externen Daten** und **Menschen** verknüpft, wodurch ve
 
 #### Wie sieht es heute aus?
 
-Laut [Internet World Stats](https://www.internetworldstats.com) (Stand Juni 2012) gab es 2012 rund 2,4 Milliarden Nutzer im Internet, nur 34% der Weltbevölkerung, während die Anzahl der mit dem Netz verbundenen Geräte diese mit weit über 10 Milliarden bereits deutlich überstieg. Dazu gehören traditionelle Computergeräte, mobile Geräte, sowie neue industrielle und Verbrauchergeräte, die wir als "Dinge" betrachten. Obwohl dies eine beachtliche Zahl zu sein scheint, umfasst sie schätzungsweise weniger als 1% aller Objekte, welche theoretisch verbunden werden könnten.
+Laut [Internet World Stats](https://www.internetworldstats.com/) (Stand Juni 2012) gab es 2012 rund 2,4 Milliarden Nutzer im Internet, nur 34% der Weltbevölkerung, während die Anzahl der mit dem Netz verbundenen Geräte diese mit weit über 10 Milliarden bereits deutlich überstieg. Dazu gehören traditionelle Computergeräte, mobile Geräte, sowie neue industrielle und Verbrauchergeräte, die wir als "Dinge" betrachten. Obwohl dies eine beachtliche Zahl zu sein scheint, umfasst sie schätzungsweise weniger als 1% aller Objekte, welche theoretisch verbunden werden könnten.
 
 Man rechnet heute mit über 50 Milliarden "Dingen" im Internet und geht von einer Weltbevölkerung von 7.9 Milliarden Menschen aus, wovon etwa 5.1 Milliarden das Internet nutzen. Dies ist erst der Anfang.
 

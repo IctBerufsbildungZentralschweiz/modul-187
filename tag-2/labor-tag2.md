@@ -6,7 +6,7 @@ Die Daten werden zurzeit erst nur auf dem Screen angezeigt, oder auf der SD-Card
 
 ![](<../.gitbook/assets/Daschboard ioadafruit.png>)
 
-Dazu benutzen wir nun die Platform von adafruit [https://io.adafruit.com/](https://io.adafruit.com)&#x20;
+Dazu benutzen wir nun die Platform von adafruit [https://io.adafruit.com/](https://io.adafruit.com/)&#x20;
 
 {% embed url="https://io.adafruit.com" %}
 Adafruit IO
@@ -16,7 +16,7 @@ Adafruit IO ist ein Cloud-Anbieter, der sich auf IoT-Bereitstellungen in der Clo
 
 {% embed url="https://www.adafruit.com" %}
 
-[Adafruit Industries](https://www.adafruit.com) ist ein Open-Source-Hardware-Unternehmen mit Sitz in New York City. Das Unternehmen entwirft, produziert und vertreibt eine Reihe von Elektronikprodukten, Elektronikkomponenten, Werkzeugen und Zubehör. Für alle Makers und Elektronikbasterl seit Jahren ein Begriff.
+[Adafruit Industries](https://www.adafruit.com/) ist ein Open-Source-Hardware-Unternehmen mit Sitz in New York City. Das Unternehmen entwirft, produziert und vertreibt eine Reihe von Elektronikprodukten, Elektronikkomponenten, Werkzeugen und Zubehör. Für alle Makers und Elektronikbasterl seit Jahren ein Begriff.
 
 
 

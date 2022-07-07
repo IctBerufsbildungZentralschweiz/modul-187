@@ -1,6 +1,6 @@
 # Bluetooth
 
-Bluetooth ![](../../.gitbook/assets/bluetooth-logo.png) ist ein Funkstandard, um auf kurze Distanzen Daten, Musik, Videos oder Bilder zu übertragen. Somit können zwei gekoppelte Geräte miteinander kommunizieren, ohne dass zwischen ihnen eine Kabelverbindung besteht.
+Bluetooth <img src="../../.gitbook/assets/bluetooth-logo.png" alt="" data-size="line"> ist ein Funkstandard, um auf kurze Distanzen Daten, Musik, Videos oder Bilder zu übertragen. Somit können zwei gekoppelte Geräte miteinander kommunizieren, ohne dass zwischen ihnen eine Kabelverbindung besteht.
 
 Bluetooth wurde Ende der 1990er Jahre von der Bluetooth Special Interest Group (SIG) als Industriestandard entwickelt und entspricht der IEEE 802.15.1 (Institute of Electrical and Electronics Engineers = weltweiter Berufsverband von Ingenieuren aus den Bereichen Elektronik und Informationstechnik). Der Interessensgemeinschaft gehören mittlerweile über 30.000 Unternehmen an, die sich die Weiterentwicklung und Verbreitung der Bluetooth-Technik zum Ziel gesetzt haben.
 

@@ -1,6 +1,6 @@
 # ZigBee
 
-ZigBee ist ein bei der Heimautomation verbreitetes Kommunikationsprotokoll. Es vernetzt LEDs und viele weitere Produkte im Smart Home herstellerübergreifend. ![](../../.gitbook/assets/zigbee\_logo.jpg)
+ZigBee ist ein bei der Heimautomation verbreitetes Kommunikationsprotokoll. Es vernetzt LEDs und viele weitere Produkte im Smart Home herstellerübergreifend. <img src="../../.gitbook/assets/zigbee_logo.jpg" alt="" data-size="line">
 
 Das ZigBee-Protokoll regelt, wie Geräte im vernetzten Heim miteinander kommunizieren und Signale übertragen. Der Standard verbindet vernetzte Produkte auf kurzen Entfernungen miteinander. Das Funksignal wird in den lizenzfreien ISM-Bändern mit 868 MHz, 915 MHz und 2,4 GHz übertrag
 
