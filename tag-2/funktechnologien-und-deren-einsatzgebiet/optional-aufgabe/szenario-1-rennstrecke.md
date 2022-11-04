@@ -11,3 +11,4 @@ Dabei gibt es folgendes zu beachten:
 * Die Sensoren werden direkt in den Streckenbelag verbaut und müssen mit Batterien betrieben werden
 * Um die Strecke herum (5-20m von der eigentlichen Strecke entfernt) befinden sich überall diverse verkabelte Anlagen und Stromzulieferer
 * An Renntagen werden über 100'000 Zuschauer erwartet
+* Die übertragenen Daten unterliegen einer hohen Sicherheitsstufe und dürfen auf keinen Fall manipuliert werden
