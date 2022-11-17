@@ -11,7 +11,7 @@ IT-Experten und Sicherheitsteams müssen sich dieser neuen Realität anpassen, w
 
 Die im Umkreis des Netzwerks bereitgestellte Sicherheit ist für solche Kommunikationen blind, es sei denn, das Unternehmen überwacht das interne Netzwerk. Und viele sind es einfach nicht. Wenn diese Geräte kompromittiert werden, werden sie zu einer Startrampe in andere Teile des Netzwerks.
 
-Das Hauptproblem des IoT ist, dass Sie sich nicht auf die physische Sicherheit verlassen sollten, um Dinge von einem Netzwerk fernzuhalten. Es gibt viele Orte im kabelgebundenen Netzwerk, die weit offen sind, und es gibt wenig Netzwerkzugriffskontrolle. Auf der drahtlosen Seite gibt es mehr Kontrolle und Authentifizierung, aber selbst dort werden Geräte, die authentifiziert wurden, oft in ein internes VLAN fallen und von dort aus unkontrolliert.
+Das Hauptproblem des IoT ist, dass man sich nicht auf die physische Sicherheit verlassen sollte, um Dinge von einem Netzwerk fernzuhalten. Es gibt viele Orte im kabelgebundenen Netzwerk, die weit offen sind, und es gibt wenig Netzwerkzugriffskontrolle. Auf der drahtlosen Seite gibt es mehr Kontrolle und Authentifizierung, aber selbst dort werden Geräte, die authentifiziert wurden, oft in ein internes VLAN fallen und von dort aus unkontrolliert kommunizieren.
 
 Sicherheitsschritte um ein Netzwerk besser zu schützen:
 
