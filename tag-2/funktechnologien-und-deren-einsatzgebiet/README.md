@@ -10,10 +10,10 @@ Bei IoT-Lösungen im Consumer-Bereich werden meistens Funktechnologien, wie z.B.
 
 Die bekanntesten LPWAN-Funktechnologien sind [LoRaWAN](lora-lorawan/), Sigfox und [NB-IoT](narrowband-iot.md). Diese Funktechnologien haben unterschiedliche Eigenschaften und sind daher für unterschiedliche Anwendungen geeignet. Während NB-IoT auf dem klassischen Mobilfunk aufbaut und von einem Mobilfunk-Provider bereitgestellt wird, kann mit LoRaWAN ein privates Netzwerk aufgebaut werden. Dadurch kann die Netzabdeckung standortspezifisch ausgebaut werden und es besteht keine Abhängigkeit von einem Provider. Sigfox wird über den gleichnamigen Provider bereitgestellt und eignet sich für Anwendungen, wo nur wenige und kleine Datenpaket übertragen werden müssen.
 
-In der angefügten Datei seht ihr eine übersicht&#x20;
+In der angefügten Datei seht ihr eine Übersicht.&#x20;
 
 {% file src="../../.gitbook/assets/Ultimate Network Comparison - Semtech.pdf" %}
 
 {% hint style="info" %}
-Die Frequenz bezeichnet die Anzahl der Schwingungen je Sekunde, die bei einem Ton oder Signal vorhanden sind. Je schneller die Teilchen schwingen, desto höher wird die Frequenz. Die Einheit ist Hertz (Hz)
+Die Frequenz bezeichnet die Anzahl der Schwingungen je Sekunde, die bei einem Ton oder Signal vorhanden sind. Je schneller die Teilchen schwingen, desto höher wird die Frequenz. Die Einheit ist Hertz (Hz).
 {% endhint %}
