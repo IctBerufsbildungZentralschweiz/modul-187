@@ -35,7 +35,7 @@ _Beispiele:_
 
 **Anmerkung zu Digitalen Übertragung**
 
-**Simplex**         Daten werden nur in eine Richtuing übertragen
+**Simplex**         Daten werden nur in eine Richtung übertragen
 
 **Duplex**           Daten werden in beide Richtungen übertragen
 
