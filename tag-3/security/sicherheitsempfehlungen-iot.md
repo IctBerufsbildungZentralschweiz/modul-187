@@ -6,7 +6,7 @@ Das IT-Grundschutz-Kompendium wird jährlich im Februar in einer neuen Edition v
 
 Im Kapitel SYS: IT-System wird auf [SYS.4.4 Allgemeins IoT-Gerät](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium\_Einzel\_PDFs\_2021/07\_SYS\_IT\_Systeme/SYS\_4\_4\_Allgemeines\_IoT\_Geraet\_Edition\_2021.pdf?\_\_blob=publicationFile\&v=2) spezifisch auf IoT eingegangen.
 
-Gibt es in der Schweiz nicht auch eine solche Anlaufstelle? Doch die gibt es, wenn auch nicht so ausgebrägt wie in Deutschland.
+Gibt es in der Schweiz nicht auch eine solche Anlaufstelle? Doch die gibt es, wenn auch nicht so ausgeprägt wie in Deutschland.
 
 In der Schweiz ist das Nationale Zentrum für Cybersicherheit ([**N**ational **C**yber **S**ecurity **C**entre - NCSC](https://www.ncsc.admin.ch/ncsc/de/home.html)) das Kompetenzzentrum des Bundes für Cybersicherheit und damit erste Anlaufstelle für die Wirtschaft, Verwaltung, Bildungseinrichtungen und die Bevölkerung bei Cyberfragen. Es ist verantwortlich für die koordinierte Umsetzung der [Nationalen Strategie zum Schutz der Schweiz vor Cyberrisiken (NCS) 2018-2022](https://www.ncsc.admin.ch/ncsc/de/home/strategie/strategie-ncss-2018-2022.html).&#x20;
 

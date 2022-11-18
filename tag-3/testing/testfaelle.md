@@ -6,11 +6,11 @@ Testfälle haben einige integrale Bestandteile, die in Feldern immer vorhanden s
 
 **Schritt 1:** Testfall-ID
 
-Testfälle sollten alle eindeutige IDs tragen, um sie darzustellen. In den meisten Fällen hilft das Befolgen einer Konvention für diese Namens-ID bei der Organisation für Klarheit und Verständnis.
+Testfälle sollten alle eindeutige IDs tragen, um sie darzustellen. In den meisten Fällen hilft das Befolgen einer Konvention für diese Namens-ID bei der Organisation, Klarheit und dem Verständnis.
 
 **Schritt 2:** Testbeschreibung
 
-Diese Beschreibung sollte detailliert beschreiben, welche Einheit oder Funktion getestet oder verifiziert wird.
+Diese Beschreibung sollte detailliert beschreiben, welche Einheit, Funktion oder Funktion getestet oder verifiziert wird.
 
 **Schritt 3:** Annahmen und Voraussetzungen
 
