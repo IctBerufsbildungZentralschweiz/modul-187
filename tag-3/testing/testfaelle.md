@@ -10,7 +10,7 @@ Testfälle sollten alle eindeutige IDs tragen, um sie darzustellen. In den meist
 
 **Schritt 2:** Testbeschreibung
 
-Diese Beschreibung sollte detailliert beschreiben, welche Einheit, Funktion oder Funktion getestet oder verifiziert wird.
+Diese Beschreibung sollte detailliert beschreiben, welche Einheit oder Funktion getestet oder verifiziert wird.
 
 **Schritt 3:** Annahmen und Voraussetzungen
 
