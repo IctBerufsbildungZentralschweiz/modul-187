@@ -29,9 +29,35 @@ Bildet 2er Teams. Die Aufgaben sind in der Gruppe zu lösen und werden auch in d
 * [ ] Erstellt ein Projektfazit am Ende
 * [ ] Alle Projektdaten und Anhänge sind bis zum 5. Tag 15 Uhr abzugeben auf der Kursplattform:  [https://kurse.ict-bz.ch](https://kurse.ict-bz.ch).
 
+Folgende Sensoren und Aktoren stehen zur Verfügung:
+
+Sensoren:
+
+* Sensoren im M2Stack Core2 Controller (z.B. Mikrofon, 6-Achsen Bewegungsmessung)
+* ENV.III (Temperatur, Feuchtigkeit, Luftdruck) / I2C (rot)
+* Ultrasonic (Distanz) / I2C (rot)
+* Heart (Puls, Herzfrequenz) / I2C (rot)
+* RFID / I2C (rot)
+* Color (Farberkennung) / I2C (rot)
+* GPS / Seriell (blau)
+* Earth (Feuchtigkeit in Erde oder ähnlichen Materialien) / ADC (schwarz)
+* PIR (Bewegungsmelder) / ADC (schwarz)
+
+Aktoren:
+
+* Aktoren im M2Stack Core2 Controller (z.B. Touchscreen, LED Bar, Lautsprecher, Vibromotor)
+* Fan (Lüfter) / ADC (schwarz)
+* RGB LED Streifen / ADC (schwarz)
+
+Am I2C-Bus können mittels Pa.HUB mehrere Sensoren angeschlossen werden (ausser Heart Unit). An den anderen Anschlüssen (Seriell, ADC) lässt sich jeweils nur 1 Sensor oder Aktor anschliessen.
+
+
+
 {% hint style="danger" %}
-ACHTUNG:\
-Heart Unit kann nicht an Pa.HUB betrieben werden!
+ACHTUNG:
+
+* Die Heart Unit kann nicht an Pa.HUB betrieben werden!
+* Die GPS Unit funktioniert nur bedingt im Indoor-Bereich!
 {% endhint %}
 
 Das Projekt wird nach der Abgabe den anderen Lernenden vorgestellt mit einer Präsentation (Powerpoint etc.) von max. 2 Seiten und einer Live-Demo. Die Präsentation wird nicht bewertet, jedoch ist es eure Visitenkarte :clap:
