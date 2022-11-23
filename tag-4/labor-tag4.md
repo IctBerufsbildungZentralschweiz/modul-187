@@ -34,22 +34,22 @@ Folgende Sensoren und Aktoren stehen zur Verfügung:
 Sensoren:
 
 * Integrierte Sensoren im M2Stack Core2 Controller (z.B. Mikrofon, 6-Achsen Lage-/Bewegungsmessung)
-* ENV.III (Temperatur, Feuchtigkeit, Luftdruck) / I2C (rot)
-* Ultrasonic (Distanz) / I2C (rot)
-* Heart (Puls, Herzfrequenz) / I2C (rot)
-* RFID / I2C (rot)
-* Color (Farberkennung) / I2C (rot)
-* GPS / Seriell (blau)
-* Earth (Feuchtigkeit in Erde oder ähnlichen Materialien) / ADC (schwarz)
-* PIR (Bewegungsmelder) / ADC (schwarz)
+* ENV.III (Temperatur, Feuchtigkeit, Luftdruck) / PortA (rot)
+* Ultrasonic (Distanz) / PortA (rot)
+* Heart (Puls, Herzfrequenz) / PortA (rot)
+* RFID / PortA (rot)
+* Color (Farberkennung) / PortA (rot)
+* Earth (Feuchtigkeit in Erde oder ähnlichen Materialien) / PortB (schwarz)
+* PIR (Bewegungsmelder) / PortB (schwarz)
+* GPS / PortC (blau)
 
 Aktoren:
 
 * Integrierte Aktoren im M2Stack Core2 Controller (z.B. Touchscreen, LED Bar, Lautsprecher, Vibromotor)
-* Fan (Lüfter) / ADC (schwarz)
-* RGB LED Streifen / ADC (schwarz)
+* Fan (Lüfter) / PortB (schwarz)
+* RGB LED Streifen / PortB (schwarz)
 
-Am I2C-Bus können mittels Pa.HUB mehrere Sensoren angeschlossen werden (ausser Heart Unit). An den anderen Anschlüssen (Seriell, ADC) lässt sich jeweils nur 1 Sensor oder Aktor anschliessen.
+Am I2C-Bus (PortA / rot) können mittels Pa.HUB mehrere Sensoren angeschlossen werden (ausser Heart Unit). An den anderen Anschlüssen (PortB, PortC) lässt sich jeweils nur 1 Sensor oder Aktor anschliessen.
 
 
 
