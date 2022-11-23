@@ -33,7 +33,7 @@ Folgende Sensoren und Aktoren stehen zur Verfügung:
 
 Sensoren:
 
-* Integrierte Sensoren im M2Stack Core2 Controller (z.B. Mikrofon, 6-Achsen Bewegungsmessung)
+* Integrierte Sensoren im M2Stack Core2 Controller (z.B. Mikrofon, 6-Achsen Lage-/Bewegungsmessung)
 * ENV.III (Temperatur, Feuchtigkeit, Luftdruck) / I2C (rot)
 * Ultrasonic (Distanz) / I2C (rot)
 * Heart (Puls, Herzfrequenz) / I2C (rot)
