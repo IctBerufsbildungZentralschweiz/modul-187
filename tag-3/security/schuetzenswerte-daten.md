@@ -1,6 +1,6 @@
 # Schützenswerte Daten
 
-Das [Datenschutzgesetz (DSG)](https://www.fedlex.admin.ch/eli/cc/1993/1945\_1945\_1945/de) der Schweiz bezweckt "Dieses Gesetz bezweckt den Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden." (DSG, Art. 1). Dabei unterscheidet das Gesetz über zwei Arten von Daten:
+Das [Datenschutzgesetz (DSG)](https://www.fedlex.admin.ch/eli/cc/1993/1945\_1945\_1945/de) der Schweiz bezweckt "Dieses Gesetz bezweckt den Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden." (DSG, Art. 1). Dabei unterscheidet das Gesetz über mehrere Arten von Daten:
 
 * Personendaten
   * alle Angaben die sich auf eine bestimmte oder bestimmbare Person beziehen
