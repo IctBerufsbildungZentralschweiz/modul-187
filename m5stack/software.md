@@ -2,7 +2,7 @@
 
 Die Software und das zugehörige Tutorial kann auf der Herstellerwebseite heruntergeladen werden.&#x20;
 
-Der Hersteller verwendet zur Programierung die **UIFLOW** Software mit welche über eine Weboberfläche [flow.m5stack.com](https://flow.m5stack.com/) oder über eine Desktopvariante bedienen lässt. Letztere muss auf der Herstellerseite heruntergeladen werden.
+Der Hersteller verwendet zur Programierung die **UIFLOW** Software mit welche über eine Weboberfläche [flow.m5stack.com](https://flow.m5stack.com/) oder über eine Desktopvariante bedienen lässt. Letztere muss auf der Herstellerseite heruntergeladen werden, wird aber nicht mehr weiter entwickelt (update is terminated).
 
 ![UiFlow - WEB - Blockly](../.gitbook/assets/UiFLOW\_Blockly.png)
 
