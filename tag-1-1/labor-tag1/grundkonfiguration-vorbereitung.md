@@ -2,7 +2,7 @@
 
 Wir wollen starten. Als erstes müsst ihr die aktuelle Firmware für den M5Stack aufspielen. Dazu braucht ihr das Programm M5Burner.
 
-Eine Anleitung für die Inbetriebnahme findet ihr unter den Quick Start des Controllers auf [https://docs.m5stack.com](https://docs.m5stack.com)
+Eine Anleitung für die Inbetriebnahme findet ihr unter den [**Quick Start**](https://docs.m5stack.com/en/quick\_start/core2\_for\_aws/uiflow) des Controllers auf [https://docs.m5stack.com](https://docs.m5stack.com)
 
 {% hint style="success" %}
 Macht euch vertraut mit der Hardware und schaut euch die Einstellungen an. Je besser ihr eure Hardware kennt um so leichter könnt ihr diese während des Kurses bedienen.
