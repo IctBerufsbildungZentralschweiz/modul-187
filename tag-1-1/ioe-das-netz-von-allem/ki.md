@@ -14,7 +14,13 @@ Beispiele von KI-Anwendungen:
 DALL E 2 - Bilder mit KI erstellen
 {% endembed %}
 
+Erstellt zur Auflockerung auch mal ein Bild mit einer KI (DALL E).\
+Hier ein Bespiel mit folgenden Schlagwörter: "IoT things paint art"
+
+<figure><img src="../../.gitbook/assets/DALL·E 2023-01-01 - IoT things paint art.png" alt=""><figcaption><p>DALL E Bild</p></figcaption></figure>
+
 {% embed url="https://openai.com/blog/chatgpt/" %}
 ChatGPT - Chatbot
 {% endembed %}
 
+**OpenAI LP** ist ein US-amerikanisches Unternehmen, das sich mit der Erforschung von künstlicher Intelligenz (KI, englisch Artificial Intelligence, AI) beschäftigt. Die gewinnorientierte Tochtergesellschaft OpenAI LP wird dabei durch das Non-Profit-Mutterunternehmen OpenAI Inc. kontrolliert. Zentrale Geldgeber der Organisation sind der Unternehmer [Elon Musk](https://de.wikipedia.org/wiki/Elon\_Musk) sowie das Unternehmen [Microsoft](https://de.wikipedia.org/wiki/Microsoft).
