@@ -21,7 +21,7 @@ Bildet 2er Teams. Die Aufgaben sind in der Gruppe zu lösen und werden auch in d
 * [ ] Definiert die Zielsetzung, Projektziel.
 * [ ] Erstellt eine Visualisierung des Projektes.
 * [ ] Erstellt ein Planungsfile mit Aufgaben.
-* [ ] Erstellt einen UI (User Interface - Benutzeroberfläche auf dem M5Stack.
+* [ ] Erstellt einen UI (User Interface - Benutzeroberfläche) auf dem M5Stack.
 * [ ] Erstellt ein entsprechendes Dashboard auf io.adafruit.com.
 * [ ] Ihr müsst eine technische Dokumentation erstellen.
 * [ ] Es müssen mindestens 2 Testfälle vorhanden sein.
