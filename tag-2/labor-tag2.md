@@ -18,6 +18,18 @@ Adafruit IO ist ein Cloud-Anbieter, der sich auf IoT-Bereitstellungen in der Clo
 
 [Adafruit Industries](https://www.adafruit.com/) ist ein Open-Source-Hardware-Unternehmen mit Sitz in New York City. Das Unternehmen entwirft, produziert und vertreibt eine Reihe von Elektronikprodukten, Elektronikkomponenten, Werkzeugen und Zubehör. Für alle Makers und Elektronikbasterl seit Jahren ein Begriff.
 
+{% hint style="danger" %}
+Da es teilweise Probleme mit der Netzwerkverbindung zu Adafruit IO gibt und zu schweren Drops kommt, anbei eine Alternative mit tingg.io
+{% endhint %}
+
+{% embed url="https://tingg.io/" %}
+tingg.io
+{% endembed %}
+
+Tingg.io ist nicht so unfangreich wie Adafruit, bietet aber dafür eine stabile Anbindung.&#x20;
+
+<figure><img src="../.gitbook/assets/Dashboard_tingg.io.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### Heute habt ihr folgende Aufgaben:
